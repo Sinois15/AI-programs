@@ -1,0 +1,1453 @@
+obsID,CountyID,impactLevel,FloodSource,countyName,EARegion,AltCountyName,ObservationDate,ImpactLevelDescription,FloodSourceDescription
+1571,13,3,R,Cumbria,Northwest - Warrington,Cumbria,01/01/2015,Minor,River
+1571,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,01/01/2015,Minor,Surface water
+1572,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,07/01/2015,Minor,River
+1573,75,3,S,Thurrock,Anglian - Peterborough,Thurrock,08/01/2015,Minor,Surface water
+1573,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,08/01/2015,Minor,River
+1573,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,08/01/2015,Minor,Surface water
+1573,87,3,S,Isle of Wight,Southeast South - Worthing,Isle of Wight,08/01/2015,Minor,Surface water
+1573,23,3,S,Kent,Southeast South - Worthing,Kent,08/01/2015,Minor,Surface water
+1573,85,3,R,Portsmouth,Southeast South - Worthing,Portsmouth,08/01/2015,Minor,River
+1573,85,3,S,Portsmouth,Southeast South - Worthing,Portsmouth,08/01/2015,Minor,Surface water
+1573,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,08/01/2015,Minor,Surface water
+1573,89,3,R,Gwynedd,Wales,Gwynedd,08/01/2015,Minor,River
+1574,27,3,C,Norfolk,Anglian - Peterborough,Norfolk,10/01/2015,Minor,Coastal \ tidal
+1574,36,3,C,Suffolk,Anglian - Peterborough,Suffolk,10/01/2015,Minor,Coastal \ tidal
+1575,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,12/01/2015,Minor,Surface water
+1575,89,3,R,Gwynedd,Wales,Gwynedd,12/01/2015,Minor,River
+1576,19,3,S,Essex,Anglian - Peterborough,Essex,14/01/2015,Minor,Surface water
+1576,11,3,S,Cheshire,Northwest - Warrington,Cheshire,14/01/2015,Minor,Surface water
+1576,21,3,R,Hampshire,Southeast South - Worthing,Hampshire,14/01/2015,Minor,River
+1576,23,3,R,Kent,Southeast South - Worthing,Kent,14/01/2015,Minor,River
+1576,16,3,R,Dorset,Southwest - Exeter,Dorset,14/01/2015,Minor,River
+1576,97,3,S,Carmarthenshire,Wales,Carmarthenshire,14/01/2015,Minor,Surface water
+1576,89,3,R,Gwynedd,Wales,Gwynedd,14/01/2015,Minor,River
+1576,103,3,R,Merthyr Tydfil,Wales,Merthyr Tydfil,14/01/2015,Minor,River
+1576,107,3,R,Monmouthshire,Wales,Monmouthshire,14/01/2015,Minor,River
+1576,94,3,R,Powys,Wales,Powys,14/01/2015,Minor,River
+1576,102,3,R,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,14/01/2015,Minor,River
+1577,10,3,R,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,15/01/2015,Minor,River
+1577,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,15/01/2015,Minor,Surface water
+1577,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,15/01/2015,Minor,River
+1577,21,3,R,Hampshire,Southeast South - Worthing,Hampshire,15/01/2015,Minor,River
+1577,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,15/01/2015,Minor,Surface water
+1577,87,3,R,Isle of Wight,Southeast South - Worthing,Isle of Wight,15/01/2015,Minor,River
+1577,87,3,S,Isle of Wight,Southeast South - Worthing,Isle of Wight,15/01/2015,Minor,Surface water
+1577,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,15/01/2015,Minor,Surface water
+1577,34,3,R,Somerset,Southwest - Exeter,Somerset,15/01/2015,Minor,River
+1577,32,3,R,Oxfordshire,Southeast North - Reading,Oxfordshire,15/01/2015,Minor,River
+1577,37,3,S,Surrey,Southeast North - Reading,Surrey,15/01/2015,Minor,Surface water
+1578,69,3,S,Bournemouth,Southwest - Exeter,Bournemouth,21/01/2015,Minor,Surface water
+1578,16,3,S,Dorset,Southwest - Exeter,Dorset,21/01/2015,Minor,Surface water
+1578,70,3,S,Poole,Southwest - Exeter,Poole,21/01/2015,Minor,Surface water
+1579,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,20/02/2015,Minor,Coastal \ tidal
+1580,30,3,C,North Yorkshire,Northeast - Leeds,N Yorkshire,22/02/2015,Minor,Coastal \ tidal
+1632,14,3,R,Derbyshire,Midlands - Solihull,Derbyshire,31/03/2015,Minor,River
+1632,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,31/03/2015,Minor,River
+1632,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,31/03/2015,Minor,Surface water
+1632,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,31/03/2015,Minor,Surface water
+1633,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,31/03/2015,Minor,Surface water
+1633,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,31/03/2015,Minor,Surface water
+1620,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,01/04/2015,Minor,Surface water
+1620,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,01/04/2015,Minor,Surface water
+1620,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,01/04/2015,Minor,Surface water
+1620,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,01/04/2015,Minor,Surface water
+1620,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,01/04/2015,Minor,Surface water
+1620,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,01/04/2015,Minor,Surface water
+1620,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,01/04/2015,Minor,Surface water
+1620,51,3,S,"Kingston upon Hull, City of",Northeast - Leeds,Kingston upon Hull,01/04/2015,Minor,Surface water
+1620,52,3,S,East Riding of Yorkshire,Northeast - Leeds,E Riding of Yorkshire,01/04/2015,Minor,Surface water
+1620,53,3,S,North East Lincolnshire,Anglian - Peterborough,NE Lincolnshire,01/04/2015,Minor,Surface water
+1620,54,3,S,North Lincolnshire,Midlands - Solihull,N Lincolnshire,01/04/2015,Minor,Surface water
+1620,58,3,S,Rutland,Anglian - Peterborough,Rutland,01/04/2015,Minor,Surface water
+1620,72,3,S,Peterborough,Anglian - Peterborough,Peterborough,01/04/2015,Minor,Surface water
+1637,109,,,Cardiff,Wales,Cardiff,14/05/2015,,
+1638,89,,,Gwynedd,Wales,Gwynedd,01/06/2015,,
+1638,24,,,Lancashire,Northwest - Warrington,Lancashire,01/06/2015,,
+1638,94,,,Powys,Wales,Powys,01/06/2015,,
+1638,102,,,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,01/06/2015,,
+1640,102,3,S,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,01/06/2015,Minor,Surface water
+1639,23,,,Kent,Southeast South - Worthing,Kent,03/06/2015,,
+1642,10,,,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,05/06/2015,,
+1642,23,,,Kent,Southeast South - Worthing,Kent,05/06/2015,,
+1642,36,,,Suffolk,Anglian - Peterborough,Suffolk,05/06/2015,,
+1641,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,05/06/2015,Minor,Surface water
+1641,23,3,S,Kent,Southeast South - Worthing,Kent,05/06/2015,Minor,Surface water
+1641,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,05/06/2015,Minor,Surface water
+1643,59,3,S,Nottingham,Midlands - Solihull,Nottingham,13/06/2015,Minor,Surface water
+1643,4,3,S,West Midlands,Midlands - Solihull,W Midlands,13/06/2015,Minor,Surface water
+1648,6,,,Greater London,Southeast North - Reading,Gtr London,20/06/2015,,
+1648,22,,,Hertfordshire,Southeast North - Reading,Hertfordshire,20/06/2015,,
+1648,79,,,Reading,Southeast North - Reading,Reading,20/06/2015,,
+1645,6,3,S,Greater London,Southeast North - Reading,Gtr London,20/06/2015,Minor,Surface water
+1645,79,3,S,Reading,Southeast North - Reading,Reading,20/06/2015,Minor,Surface water
+1646,6,3,S,Greater London,Southeast North - Reading,Gtr London,20/06/2015,Minor,Surface water
+1646,79,3,S,Reading,Southeast North - Reading,Reading,20/06/2015,Minor,Surface water
+1647,6,,,Greater London,Southeast North - Reading,Gtr London,20/06/2015,,
+1647,79,,,Reading,Southeast North - Reading,Reading,20/06/2015,,
+1644,6,3,S,Greater London,Southeast North - Reading,Gtr London,20/06/2015,Minor,Surface water
+1644,79,3,S,Reading,Southeast North - Reading,Reading,20/06/2015,Minor,Surface water
+1649,6,,,Greater London,Southeast North - Reading,Gtr London,28/06/2015,,
+1651,3,,,Tyne and Wear,Northeast - Leeds,Tyne and Wear,01/07/2015,,
+1650,15,3,S,Devon,Southwest - Exeter,Devon,02/07/2015,Minor,Surface water
+1655,69,3,S,Bournemouth,Southwest - Exeter,Bournemouth,03/07/2015,Minor,Surface water
+1655,16,3,S,Dorset,Southwest - Exeter,Dorset,03/07/2015,Minor,Surface water
+1655,40,3,S,Wiltshire,Southwest - Exeter,Wiltshire,03/07/2015,Minor,Surface water
+1652,69,3,S,Bournemouth,Southwest - Exeter,Bournemouth,03/07/2015,Minor,Surface water
+1676,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,04/07/2015,Minor,Surface water
+1670,43,,,Middlesbrough,Northeast - Leeds,Middlesbrough,04/07/2015,,
+1670,45,,,Stockton-on-Tees,Northeast - Leeds,Stockton-on-Tees,04/07/2015,,
+1653,52,3,R,East Riding of Yorkshire,Northeast - Leeds,E Riding of Yorkshire,04/07/2015,Minor,River
+1653,51,3,R,"Kingston upon Hull, City of",Northeast - Leeds,Kingston upon Hull,04/07/2015,Minor,River
+1653,59,3,R,Nottingham,Midlands - Solihull,Nottingham,04/07/2015,Minor,River
+1677,35,,,Staffordshire,Midlands - Solihull,Staffordshire,04/07/2015,,
+1656,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,05/07/2015,Minor,Surface water
+1673,5,,,West Yorkshire,Northeast - Leeds,W Yorkshire,05/07/2015,,
+1657,29,3,R,Northumberland,Northeast - Leeds,Northumberland,05/07/2015,Minor,River
+1658,6,,,Greater London,Southeast North - Reading,Gtr London,05/07/2015,,
+1675,29,3,S,Northumberland,Northeast - Leeds,Northumberland,05/07/2015,Minor,Surface water
+1654,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,05/07/2015,Minor,Surface water
+1660,15,2,R,Devon,Southwest - Exeter,Devon,07/07/2015,Significant,River
+1661,12,2,R,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,07/07/2015,Significant,River
+1661,15,2,R,Devon,Southwest - Exeter,Devon,07/07/2015,Significant,River
+1661,67,2,R,Plymouth,Southwest - Exeter,Plymouth,07/07/2015,Significant,River
+1661,68,2,R,Torbay,Southwest - Exeter,Torbay,07/07/2015,Significant,River
+1662,8,2,R,Bedfordshire,Anglian - Peterborough,Bedfordshire,07/07/2015,Significant,River
+1662,9,2,R,Buckinghamshire,Southeast North - Reading,Buckinghamshire,07/07/2015,Significant,River
+1662,10,2,R,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,07/07/2015,Significant,River
+1662,19,2,R,Essex,Anglian - Peterborough,Essex,07/07/2015,Significant,River
+1662,22,2,R,Hertfordshire,Southeast North - Reading,Hertfordshire,07/07/2015,Significant,River
+1662,27,2,R,Norfolk,Anglian - Peterborough,Norfolk,07/07/2015,Significant,River
+1662,36,2,R,Suffolk,Anglian - Peterborough,Suffolk,07/07/2015,Significant,River
+1662,73,2,R,Luton,Southeast North - Reading,Luton,07/07/2015,Significant,River
+1663,20,2,R,Gloucestershire,Midlands - Solihull,Gloucestershire,07/07/2015,Significant,River
+1664,21,2,R,Hampshire,Southeast South - Worthing,Hampshire,07/07/2015,Significant,River
+1665,16,2,R,Dorset,Southwest - Exeter,Dorset,07/07/2015,Significant,River
+1666,23,2,R,Kent,Southeast South - Worthing,Kent,07/07/2015,Significant,River
+1667,27,2,R,Norfolk,Anglian - Peterborough,Norfolk,07/07/2015,Significant,River
+1668,26,2,R,Lincolnshire,Anglian - Peterborough,Lincolnshire,07/07/2015,Significant,River
+1669,30,2,R,North Yorkshire,Northeast - Leeds,N Yorkshire,07/07/2015,Significant,River
+1672,69,,,Bournemouth,Southwest - Exeter,Bournemouth,09/07/2015,,
+1671,69,,,Bournemouth,Southwest - Exeter,Bournemouth,09/07/2015,,
+1678,10,2,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,17/07/2015,Significant,Surface water
+1679,22,3,R,Hertfordshire,Southeast North - Reading,Hertfordshire,17/07/2015,Minor,River
+1679,22,2,S,Hertfordshire,Southeast North - Reading,Hertfordshire,17/07/2015,Significant,Surface water
+1680,27,,,Norfolk,Anglian - Peterborough,Norfolk,17/07/2015,,
+1681,10,,,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,17/07/2015,,
+1682,15,3,S,Devon,Southwest - Exeter,Devon,24/07/2015,Minor,Surface water
+1682,16,3,S,Dorset,Southwest - Exeter,Dorset,24/07/2015,Minor,Surface water
+1682,6,3,S,Greater London,Southeast North - Reading,Gtr London,24/07/2015,Minor,Surface water
+1682,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,24/07/2015,Minor,Surface water
+1682,23,3,S,Kent,Southeast South - Worthing,Kent,24/07/2015,Minor,Surface water
+1682,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,24/07/2015,Minor,Surface water
+1682,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,24/07/2015,Minor,Surface water
+1683,6,3,S,Greater London,Southeast North - Reading,Gtr London,24/07/2015,Minor,Surface water
+1687,6,,,Greater London,Southeast North - Reading,Gtr London,24/07/2015,,
+1688,36,2,R,Suffolk,Anglian - Peterborough,Suffolk,24/07/2015,Significant,River
+1688,36,2,S,Suffolk,Anglian - Peterborough,Suffolk,24/07/2015,Significant,Surface water
+1684,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,25/07/2015,Minor,Surface water
+1684,23,3,S,Kent,Southeast South - Worthing,Kent,25/07/2015,Minor,Surface water
+1684,36,2,S,Suffolk,Anglian - Peterborough,Suffolk,25/07/2015,Significant,Surface water
+1686,23,3,S,Kent,Southeast South - Worthing,Kent,25/07/2015,Minor,Surface water
+1685,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,26/07/2015,Minor,Surface water
+1685,15,3,S,Devon,Southwest - Exeter,Devon,26/07/2015,Minor,Surface water
+1765,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,29/07/2015,Minor,River
+1765,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,29/07/2015,Minor,Surface water
+1690,67,3,S,Plymouth,Southwest - Exeter,Plymouth,10/08/2015,Minor,Surface water
+1691,67,,,Plymouth,Southwest - Exeter,Plymouth,10/08/2015,,
+1689,67,,,Plymouth,Southwest - Exeter,Plymouth,10/08/2015,,
+1695,12,,,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,13/08/2015,,
+1692,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,13/08/2015,Minor,Surface water
+1692,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,13/08/2015,Minor,Surface water
+1692,23,3,S,Kent,Southeast South - Worthing,Kent,13/08/2015,Minor,Surface water
+1692,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,13/08/2015,Minor,Surface water
+1692,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,13/08/2015,Minor,Surface water
+1693,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,14/08/2015,Minor,Surface water
+1699,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,14/08/2015,Minor,Surface water
+1694,15,3,S,Devon,Southwest - Exeter,Devon,14/08/2015,Minor,Surface water
+1694,16,3,S,Dorset,Southwest - Exeter,Dorset,14/08/2015,Minor,Surface water
+1694,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,14/08/2015,Minor,Surface water
+1694,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,14/08/2015,Minor,Surface water
+1694,24,3,S,Lancashire,Northwest - Warrington,Lancashire,14/08/2015,Minor,Surface water
+1694,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,14/08/2015,Minor,Surface water
+1694,108,3,S,Newport,Wales,Newport,14/08/2015,Minor,Surface water
+1694,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,14/08/2015,Minor,Surface water
+1694,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,14/08/2015,Minor,Surface water
+1697,12,,,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,22/08/2015,,
+1703,3,,,Tyne and Wear,Northeast - Leeds,Tyne and Wear,22/08/2015,,
+1698,24,3,S,Lancashire,Northwest - Warrington,Lancashire,22/08/2015,Minor,Surface water
+1698,1,3,S,Merseyside,Northwest - Warrington,Merseyside,22/08/2015,Minor,Surface water
+1698,93,3,S,Wrexham,Wales,Wrexham,22/08/2015,Minor,Surface water
+1700,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,22/08/2015,Minor,Surface water
+1700,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,22/08/2015,Minor,Surface water
+1696,15,,,Devon,Southwest - Exeter,Devon,23/08/2015,,
+1701,26,3,R,Lincolnshire,Anglian - Peterborough,Lincolnshire,24/08/2015,Minor,River
+1701,6,3,S,Greater London,Southeast North - Reading,Gtr London,24/08/2015,Minor,Surface water
+1701,87,3,S,Isle of Wight,Southeast South - Worthing,Isle of Wight,24/08/2015,Minor,Surface water
+1701,74,3,S,Southend-on-Sea,Anglian - Peterborough,Southend-on-Sea,24/08/2015,Minor,Surface water
+1701,37,3,S,Surrey,Southeast North - Reading,Surrey,24/08/2015,Minor,Surface water
+1701,23,2,S,Kent,Southeast South - Worthing,Kent,24/08/2015,Significant,Surface water
+1702,67,,,Plymouth,Southwest - Exeter,Plymouth,25/08/2015,,
+1707,16,3,S,Dorset,Southwest - Exeter,Dorset,26/08/2015,Minor,Surface water
+1707,37,3,S,Surrey,Southeast North - Reading,Surrey,26/08/2015,Minor,Surface water
+1704,9,3,S,Buckinghamshire,Southeast North - Reading,Buckinghamshire,26/08/2015,Minor,Surface water
+1704,109,3,S,Cardiff,Wales,Cardiff,26/08/2015,Minor,Surface water
+1704,6,3,S,Greater London,Southeast North - Reading,Gtr London,26/08/2015,Minor,Surface water
+1704,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,26/08/2015,Minor,Surface water
+1704,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,26/08/2015,Minor,Surface water
+1704,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,26/08/2015,Minor,Surface water
+1704,80,3,S,Slough,Southeast North - Reading,Slough,26/08/2015,Minor,Surface water
+1704,86,3,S,Southampton,Southeast South - Worthing,Southampton,26/08/2015,Minor,Surface water
+1704,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,26/08/2015,Minor,Surface water
+1704,98,3,S,Swansea,Wales,Swansea,26/08/2015,Minor,Surface water
+1704,81,3,S,Windsor and Maidenhead,Southeast North - Reading,Windsor and Maidenhead,26/08/2015,Minor,Surface water
+1706,15,3,R,Devon,Southwest - Exeter,Devon,26/08/2015,Minor,River
+1706,21,3,R,Hampshire,Southeast South - Worthing,Hampshire,26/08/2015,Minor,River
+1705,12,,,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,26/08/2015,,
+1705,15,,,Devon,Southwest - Exeter,Devon,26/08/2015,,
+1708,6,3,S,Greater London,Southeast North - Reading,Gtr London,26/08/2015,Minor,Surface water
+1706,12,3,R,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,26/08/2015,Minor,River
+1709,36,,,Suffolk,Anglian - Peterborough,Suffolk,31/08/2015,,
+1713,1,,,Merseyside,Northwest - Warrington,Merseyside,31/08/2015,,
+1710,24,,,Lancashire,Northwest - Warrington,Lancashire,01/09/2015,,
+1712,4,,,West Midlands,Midlands - Solihull,W Midlands,01/09/2015,,
+1711,11,3,S,Cheshire,Northwest - Warrington,Cheshire,02/09/2015,Minor,Surface water
+1711,92,3,S,Flintshire,Wales,Flintshire,02/09/2015,Minor,Surface water
+1711,1,2,S,Merseyside,Northwest - Warrington,Merseyside,02/09/2015,Significant,Surface water
+1714,97,3,S,Carmarthenshire,Wales,Carmarthenshire,13/09/2015,Minor,Surface water
+1714,15,3,S,Devon,Southwest - Exeter,Devon,13/09/2015,Minor,Surface water
+1714,15,3,C,Devon,Southwest - Exeter,Devon,13/09/2015,Minor,Coastal \ tidal
+1715,96,3,S,Pembrokeshire,Wales,Pembrokeshire,14/09/2015,Minor,Surface water
+1717,31,,,Nottinghamshire,Midlands - Solihull,Nottinghamshire,14/09/2015,,
+1720,26,,,Lincolnshire,Anglian - Peterborough,Lincolnshire,14/09/2015,,
+1720,28,,,Northamptonshire,Anglian - Peterborough,Northamptonshire,14/09/2015,,
+1720,41,,,Worcestershire,Midlands - Solihull,Worcestershire,14/09/2015,,
+1716,44,3,S,Redcar and Cleveland,Northeast - Leeds,Redcar and Cleveland,15/09/2015,Minor,Surface water
+1718,21,,,Hampshire,Southeast South - Worthing,Hampshire,16/09/2015,,
+1718,27,,,Norfolk,Anglian - Peterborough,Norfolk,16/09/2015,,
+1718,70,,,Poole,Southwest - Exeter,Poole,16/09/2015,,
+1718,34,,,Somerset,Southwest - Exeter,Somerset,16/09/2015,,
+1718,69,,,Bournemouth,Southwest - Exeter,Bournemouth,16/09/2015,,
+1718,16,,,Dorset,Southwest - Exeter,Dorset,16/09/2015,,
+1718,6,,,Greater London,Southeast North - Reading,Gtr London,16/09/2015,,
+1719,36,,,Suffolk,Anglian - Peterborough,Suffolk,18/09/2015,,
+1721,23,3,S,Kent,Southeast South - Worthing,Kent,22/09/2015,Minor,Surface water
+1722,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,06/10/2015,Minor,Surface water
+1722,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,06/10/2015,Minor,Surface water
+1722,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,06/10/2015,Minor,Surface water
+1722,33,3,S,Shropshire,Midlands - Solihull,Shropshire,06/10/2015,Minor,Surface water
+1722,4,3,S,West Midlands,Midlands - Solihull,W Midlands,06/10/2015,Minor,Surface water
+1722,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,06/10/2015,Minor,Surface water
+1722,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,06/10/2015,Minor,Surface water
+1723,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,07/10/2015,Minor,Surface water
+1723,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,07/10/2015,Minor,Surface water
+1723,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,07/10/2015,Minor,Surface water
+1723,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,07/10/2015,Minor,Surface water
+1723,33,3,S,Shropshire,Midlands - Solihull,Shropshire,07/10/2015,Minor,Surface water
+1723,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,07/10/2015,Minor,Surface water
+1723,4,3,S,West Midlands,Midlands - Solihull,W Midlands,07/10/2015,Minor,Surface water
+1723,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,07/10/2015,Minor,Surface water
+1723,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,07/10/2015,Minor,Surface water
+1726,67,3,S,Plymouth,Southwest - Exeter,Plymouth,27/10/2015,Minor,Surface water
+1726,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,27/10/2015,Minor,Coastal \ tidal
+1725,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,28/10/2015,Minor,Coastal \ tidal
+1725,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,28/10/2015,Minor,Surface water
+1725,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,28/10/2015,Minor,Surface water
+1725,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,28/10/2015,Minor,Surface water
+1725,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,28/10/2015,Minor,Surface water
+1728,24,3,S,Lancashire,Northwest - Warrington,Lancashire,08/11/2015,Minor,Surface water
+1733,13,3,R,Cumbria,Northwest - Warrington,Cumbria,09/11/2015,Minor,River
+1729,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,09/11/2015,Minor,River
+1730,13,,,Cumbria,Northwest - Warrington,Cumbria,09/11/2015,,
+1731,90,,,Conwy,Wales,Conwy,09/11/2015,,
+1732,24,,,Lancashire,Northwest - Warrington,Lancashire,09/11/2015,,
+1734,90,3,R,Conwy,Wales,Conwy,10/11/2015,Minor,River
+1734,94,3,R,Powys,Wales,Powys,10/11/2015,Minor,River
+1735,55,3,R,York,Northeast - Leeds,York,11/11/2015,Minor,River
+1736,15,,,Devon,Southwest - Exeter,Devon,13/11/2015,,
+1746,13,2,R,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Significant,River
+1747,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,15/11/2015,Minor,River
+1747,5,2,R,West Yorkshire,Northeast - Leeds,W Yorkshire,15/11/2015,Significant,River
+1747,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,15/11/2015,Minor,Surface water
+1748,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,15/11/2015,Minor,River
+1748,30,2,R,North Yorkshire,Northeast - Leeds,N Yorkshire,15/11/2015,Significant,River
+1748,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,15/11/2015,Minor,Surface water
+1748,30,2,S,North Yorkshire,Northeast - Leeds,N Yorkshire,15/11/2015,Significant,Surface water
+1749,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,15/11/2015,Minor,Surface water
+1750,90,3,R,Conwy,Wales,Conwy,15/11/2015,Minor,River
+1750,89,3,R,Gwynedd,Wales,Gwynedd,15/11/2015,Minor,River
+1750,94,3,R,Powys,Wales,Powys,15/11/2015,Minor,River
+1750,97,3,S,Carmarthenshire,Wales,Carmarthenshire,15/11/2015,Minor,Surface water
+1747,5,2,S,West Yorkshire,Northeast - Leeds,W Yorkshire,15/11/2015,Significant,Surface water
+1737,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/11/2015,Minor,River
+1751,15,,,Devon,Southwest - Exeter,Devon,15/11/2015,,
+1739,14,3,R,Derbyshire,Midlands - Solihull,Derbyshire,15/11/2015,Minor,River
+1742,7,2,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/11/2015,Significant,River
+1743,7,2,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/11/2015,Significant,River
+1745,13,3,R,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Minor,River
+1744,13,3,R,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Minor,River
+1740,13,3,R,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Minor,River
+1740,13,2,R,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Significant,River
+1740,13,3,S,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Minor,Surface water
+1740,13,2,S,Cumbria,Northwest - Warrington,Cumbria,15/11/2015,Significant,Surface water
+1741,24,3,R,Lancashire,Northwest - Warrington,Lancashire,15/11/2015,Minor,River
+1741,24,2,R,Lancashire,Northwest - Warrington,Lancashire,15/11/2015,Significant,River
+1741,24,3,S,Lancashire,Northwest - Warrington,Lancashire,15/11/2015,Minor,Surface water
+1741,24,2,S,Lancashire,Northwest - Warrington,Lancashire,15/11/2015,Significant,Surface water
+1738,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/11/2015,Minor,River
+1738,7,2,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/11/2015,Significant,River
+1738,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/11/2015,Minor,Surface water
+1756,55,3,R,York,Northeast - Leeds,York,16/11/2015,Minor,River
+1757,55,3,R,York,Northeast - Leeds,York,17/11/2015,Minor,River
+1759,13,3,R,Cumbria,Northwest - Warrington,Cumbria,18/11/2015,Minor,River
+1760,13,3,S,Cumbria,Northwest - Warrington,Cumbria,18/11/2015,Minor,Surface water
+1761,24,3,S,Lancashire,Northwest - Warrington,Lancashire,18/11/2015,Minor,Surface water
+1752,30,2,C,North Yorkshire,Northeast - Leeds,N Yorkshire,18/11/2015,Significant,Coastal \ tidal
+1753,52,2,C,East Riding of Yorkshire,Northeast - Leeds,E Riding of Yorkshire,18/11/2015,Significant,Coastal \ tidal
+1754,26,2,C,Lincolnshire,Anglian - Peterborough,Lincolnshire,18/11/2015,Significant,Coastal \ tidal
+1758,55,3,R,York,Northeast - Leeds,York,18/11/2015,Minor,River
+1758,24,3,S,Lancashire,Northwest - Warrington,Lancashire,18/11/2015,Minor,Surface water
+1762,55,3,R,York,Northeast - Leeds,York,19/11/2015,Minor,River
+1763,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,19/11/2015,Minor,Surface water
+1764,55,3,R,York,Northeast - Leeds,York,20/11/2015,Minor,River
+1766,21,3,C,Hampshire,Southeast South - Worthing,Hampshire,29/11/2015,Minor,Coastal \ tidal
+1766,24,3,C,Lancashire,Northwest - Warrington,Lancashire,29/11/2015,Minor,Coastal \ tidal
+1766,65,3,C,North Somerset,Southwest - Exeter,N Somerset,29/11/2015,Minor,Coastal \ tidal
+1767,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,30/11/2015,Minor,River
+1767,55,3,R,York,Northeast - Leeds,York,30/11/2015,Minor,River
+1769,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,01/12/2015,Minor,River
+1769,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,01/12/2015,Minor,River
+1769,33,3,R,Shropshire,Midlands - Solihull,Shropshire,01/12/2015,Minor,River
+1770,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,01/12/2015,Minor,River
+1770,24,3,R,Lancashire,Northwest - Warrington,Lancashire,01/12/2015,Minor,River
+1770,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,01/12/2015,Minor,River
+1770,24,3,S,Lancashire,Northwest - Warrington,Lancashire,01/12/2015,Minor,Surface water
+1770,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,01/12/2015,Minor,Surface water
+1772,95,3,R,Ceredigion,Wales,Ceredigion,01/12/2015,Minor,River
+1773,88,3,R,Isle of Anglesey,Wales,Isle of Anglesey,01/12/2015,Minor,River
+1774,95,3,C,Ceredigion,Wales,Ceredigion,01/12/2015,Minor,Coastal \ tidal
+1771,65,3,C,North Somerset,Southwest - Exeter,N Somerset,01/12/2015,Minor,Coastal \ tidal
+1768,109,3,R,Cardiff,Wales,Cardiff,01/12/2015,Minor,River
+1768,90,3,R,Conwy,Wales,Conwy,01/12/2015,Minor,River
+1768,91,3,R,Denbighshire,Wales,Denbighshire,01/12/2015,Minor,River
+1768,101,3,R,The Vale of Glamorgan,Wales,Vale of Glamorgan,01/12/2015,Minor,River
+1768,89,2,R,Gwynedd,Wales,Gwynedd,01/12/2015,Significant,River
+1768,94,2,R,Powys,Wales,Powys,01/12/2015,Significant,River
+1768,102,2,R,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,01/12/2015,Significant,River
+1768,101,2,R,The Vale of Glamorgan,Wales,Vale of Glamorgan,01/12/2015,Significant,River
+1768,109,3,S,Cardiff,Wales,Cardiff,01/12/2015,Minor,Surface water
+1781,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,02/12/2015,Minor,River
+1781,33,3,R,Shropshire,Midlands - Solihull,Shropshire,02/12/2015,Minor,River
+1781,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,02/12/2015,Minor,River
+1775,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,02/12/2015,Minor,River
+1775,33,3,R,Shropshire,Midlands - Solihull,Shropshire,02/12/2015,Minor,River
+1776,13,3,R,Cumbria,Northwest - Warrington,Cumbria,02/12/2015,Minor,River
+1776,13,3,S,Cumbria,Northwest - Warrington,Cumbria,02/12/2015,Minor,Surface water
+1782,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,03/12/2015,Minor,River
+1782,33,3,R,Shropshire,Midlands - Solihull,Shropshire,03/12/2015,Minor,River
+1782,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,03/12/2015,Minor,River
+1794,103,3,R,Merthyr Tydfil,Wales,Merthyr Tydfil,03/12/2015,Minor,River
+1794,102,3,R,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,03/12/2015,Minor,River
+1794,100,3,S,Bridgend,Wales,Bridgend,03/12/2015,Minor,Surface water
+1777,11,3,R,Cheshire,Northwest - Warrington,Cheshire,03/12/2015,Minor,River
+1777,89,3,R,Gwynedd,Wales,Gwynedd,03/12/2015,Minor,River
+1777,94,3,S,Powys,Wales,Powys,03/12/2015,Minor,Surface water
+1779,13,3,R,Cumbria,Northwest - Warrington,Cumbria,03/12/2015,Minor,River
+1779,13,2,S,Cumbria,Northwest - Warrington,Cumbria,03/12/2015,Significant,Surface water
+1780,95,,,Ceredigion,Wales,Ceredigion,03/12/2015,,
+1778,11,3,R,Cheshire,Northwest - Warrington,Cheshire,04/12/2015,Minor,River
+1778,103,3,R,Merthyr Tydfil,Wales,Merthyr Tydfil,04/12/2015,Minor,River
+1778,102,3,R,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,04/12/2015,Minor,River
+1783,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,04/12/2015,Minor,River
+1783,33,3,R,Shropshire,Midlands - Solihull,Shropshire,04/12/2015,Minor,River
+1783,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,04/12/2015,Minor,River
+1778,13,2,S,Cumbria,Northwest - Warrington,Cumbria,04/12/2015,Significant,Surface water
+1784,89,3,R,Gwynedd,Wales,Gwynedd,05/12/2015,Minor,River
+1784,13,1,R,Cumbria,Northwest - Warrington,Cumbria,05/12/2015,Severe,River
+1784,89,3,S,Gwynedd,Wales,Gwynedd,05/12/2015,Minor,Surface water
+1784,13,1,S,Cumbria,Northwest - Warrington,Cumbria,05/12/2015,Severe,Surface water
+1785,17,2,R,Durham,Northeast - Leeds,Durham,05/12/2015,Significant,River
+1785,17,2,S,Durham,Northeast - Leeds,Durham,05/12/2015,Significant,Surface water
+1808,90,2,R,Conwy,Wales,Conwy,05/12/2015,Significant,River
+1808,90,1,S,Conwy,Wales,Conwy,05/12/2015,Severe,Surface water
+1809,90,2,R,Conwy,Wales,Conwy,05/12/2015,Significant,River
+1809,90,1,S,Conwy,Wales,Conwy,05/12/2015,Severe,Surface water
+1787,30,2,R,North Yorkshire,Northeast - Leeds,N Yorkshire,05/12/2015,Significant,River
+1787,5,2,R,West Yorkshire,Northeast - Leeds,W Yorkshire,05/12/2015,Significant,River
+1787,55,2,R,York,Northeast - Leeds,York,05/12/2015,Significant,River
+1787,30,2,S,North Yorkshire,Northeast - Leeds,N Yorkshire,05/12/2015,Significant,Surface water
+1787,5,2,S,West Yorkshire,Northeast - Leeds,W Yorkshire,05/12/2015,Significant,Surface water
+1787,55,2,S,York,Northeast - Leeds,York,05/12/2015,Significant,Surface water
+1810,90,2,R,Conwy,Wales,Conwy,05/12/2015,Significant,River
+1810,90,1,S,Conwy,Wales,Conwy,05/12/2015,Severe,Surface water
+1811,90,3,R,Conwy,Wales,Conwy,05/12/2015,Minor,River
+1811,88,3,R,Isle of Anglesey,Wales,Isle of Anglesey,05/12/2015,Minor,River
+1811,90,3,S,Conwy,Wales,Conwy,05/12/2015,Minor,Surface water
+1811,88,3,S,Isle of Anglesey,Wales,Isle of Anglesey,05/12/2015,Minor,Surface water
+1790,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,05/12/2015,Minor,River
+1790,33,3,R,Shropshire,Midlands - Solihull,Shropshire,05/12/2015,Minor,River
+1790,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,05/12/2015,Minor,River
+1790,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,05/12/2015,Minor,River
+1786,46,3,R,Darlington,Northeast - Leeds,Darlington,05/12/2015,Minor,River
+1786,3,3,R,Tyne and Wear,Northeast - Leeds,Tyne and Wear,05/12/2015,Minor,River
+1786,29,2,R,Northumberland,Northeast - Leeds,Northumberland,05/12/2015,Significant,River
+1786,46,3,S,Darlington,Northeast - Leeds,Darlington,05/12/2015,Minor,Surface water
+1786,3,3,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,05/12/2015,Minor,Surface water
+1786,29,2,S,Northumberland,Northeast - Leeds,Northumberland,05/12/2015,Significant,Surface water
+1788,24,2,R,Lancashire,Northwest - Warrington,Lancashire,05/12/2015,Significant,River
+1788,24,2,S,Lancashire,Northwest - Warrington,Lancashire,05/12/2015,Significant,Surface water
+1789,11,3,R,Cheshire,Northwest - Warrington,Cheshire,05/12/2015,Minor,River
+1807,3,1,R,Tyne and Wear,Northeast - Leeds,Tyne and Wear,06/12/2015,Severe,River
+1807,17,1,R,Durham,Northeast - Leeds,Durham,06/12/2015,Severe,River
+1807,29,1,R,Northumberland,Northeast - Leeds,Northumberland,06/12/2015,Severe,River
+1807,3,1,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,06/12/2015,Severe,Surface water
+1807,17,1,S,Durham,Northeast - Leeds,Durham,06/12/2015,Severe,Surface water
+1807,29,1,S,Northumberland,Northeast - Leeds,Northumberland,06/12/2015,Severe,Surface water
+1796,11,3,R,Cheshire,Northwest - Warrington,Cheshire,06/12/2015,Minor,River
+1791,13,1,R,Cumbria,Northwest - Warrington,Cumbria,06/12/2015,Severe,River
+1791,13,1,S,Cumbria,Northwest - Warrington,Cumbria,06/12/2015,Severe,Surface water
+1792,24,1,R,Lancashire,Northwest - Warrington,Lancashire,06/12/2015,Severe,River
+1792,24,1,S,Lancashire,Northwest - Warrington,Lancashire,06/12/2015,Severe,Surface water
+1799,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,06/12/2015,Minor,River
+1799,55,3,R,York,Northeast - Leeds,York,06/12/2015,Minor,River
+1806,17,2,R,Durham,Northeast - Leeds,Durham,06/12/2015,Significant,River
+1806,29,2,R,Northumberland,Northeast - Leeds,Northumberland,06/12/2015,Significant,River
+1797,33,3,R,Shropshire,Midlands - Solihull,Shropshire,06/12/2015,Minor,River
+1797,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,06/12/2015,Minor,River
+1797,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,06/12/2015,Minor,River
+1797,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,06/12/2015,Minor,River
+1793,13,2,R,Cumbria,Northwest - Warrington,Cumbria,07/12/2015,Significant,River
+1793,24,2,R,Lancashire,Northwest - Warrington,Lancashire,07/12/2015,Significant,River
+1793,29,2,R,Northumberland,Northeast - Leeds,Northumberland,07/12/2015,Significant,River
+1798,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,07/12/2015,Minor,River
+1798,33,3,R,Shropshire,Midlands - Solihull,Shropshire,07/12/2015,Minor,River
+1798,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,07/12/2015,Minor,River
+1800,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,07/12/2015,Minor,River
+1800,55,3,R,York,Northeast - Leeds,York,07/12/2015,Minor,River
+1795,11,3,R,Cheshire,Northwest - Warrington,Cheshire,07/12/2015,Minor,River
+1801,55,3,R,York,Northeast - Leeds,York,08/12/2015,Minor,River
+1802,13,3,R,Cumbria,Northwest - Warrington,Cumbria,08/12/2015,Minor,River
+1803,11,3,R,Cheshire,Northwest - Warrington,Cheshire,08/12/2015,Minor,River
+1805,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,09/12/2015,Minor,River
+1805,55,3,R,York,Northeast - Leeds,York,09/12/2015,Minor,River
+1804,11,3,R,Cheshire,Northwest - Warrington,Cheshire,09/12/2015,Minor,River
+1804,13,2,R,Cumbria,Northwest - Warrington,Cumbria,09/12/2015,Significant,River
+1804,24,2,R,Lancashire,Northwest - Warrington,Lancashire,09/12/2015,Significant,River
+1804,13,2,S,Cumbria,Northwest - Warrington,Cumbria,09/12/2015,Significant,Surface water
+1804,24,2,S,Lancashire,Northwest - Warrington,Lancashire,09/12/2015,Significant,Surface water
+1812,11,3,R,Cheshire,Northwest - Warrington,Cheshire,10/12/2015,Minor,River
+1812,13,3,R,Cumbria,Northwest - Warrington,Cumbria,10/12/2015,Minor,River
+1812,24,3,R,Lancashire,Northwest - Warrington,Lancashire,10/12/2015,Minor,River
+1814,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,10/12/2015,Minor,River
+1814,55,3,R,York,Northeast - Leeds,York,10/12/2015,Minor,River
+1813,11,3,R,Cheshire,Northwest - Warrington,Cheshire,11/12/2015,Minor,River
+1816,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,12/12/2015,Minor,River
+1815,95,3,R,Ceredigion,Wales,Ceredigion,12/12/2015,Minor,River
+1815,90,3,R,Conwy,Wales,Conwy,12/12/2015,Minor,River
+1815,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,12/12/2015,Minor,River
+1815,89,3,R,Gwynedd,Wales,Gwynedd,12/12/2015,Minor,River
+1815,24,3,R,Lancashire,Northwest - Warrington,Lancashire,12/12/2015,Minor,River
+1815,94,3,R,Powys,Wales,Powys,12/12/2015,Minor,River
+1815,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,12/12/2015,Minor,River
+1815,95,3,S,Ceredigion,Wales,Ceredigion,12/12/2015,Minor,Surface water
+1815,90,3,S,Conwy,Wales,Conwy,12/12/2015,Minor,Surface water
+1815,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,12/12/2015,Minor,Surface water
+1815,89,3,S,Gwynedd,Wales,Gwynedd,12/12/2015,Minor,Surface water
+1815,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,12/12/2015,Minor,Surface water
+1815,94,3,S,Powys,Wales,Powys,12/12/2015,Minor,Surface water
+1815,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,12/12/2015,Minor,Surface water
+1817,13,,,Cumbria,Northwest - Warrington,Cumbria,12/12/2015,,
+1818,94,3,R,Powys,Wales,Powys,13/12/2015,Minor,River
+1818,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,13/12/2015,Minor,River
+1819,13,,,Cumbria,Northwest - Warrington,Cumbria,13/12/2015,,
+1820,33,3,R,Shropshire,Midlands - Solihull,Shropshire,14/12/2015,Minor,River
+1821,33,3,R,Shropshire,Midlands - Solihull,Shropshire,15/12/2015,Minor,River
+1822,97,3,S,Carmarthenshire,Wales,Carmarthenshire,19/12/2015,Minor,Surface water
+1822,24,3,S,Lancashire,Northwest - Warrington,Lancashire,19/12/2015,Minor,Surface water
+1822,96,3,S,Pembrokeshire,Wales,Pembrokeshire,19/12/2015,Minor,Surface water
+1822,98,3,S,Swansea,Wales,Swansea,19/12/2015,Minor,Surface water
+1823,13,3,R,Cumbria,Northwest - Warrington,Cumbria,19/12/2015,Minor,River
+1825,89,3,R,Gwynedd,Wales,Gwynedd,20/12/2015,Minor,River
+1825,89,3,S,Gwynedd,Wales,Gwynedd,20/12/2015,Minor,Surface water
+2824,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,22/12/2015,Minor,River
+2825,33,3,R,Shropshire,Midlands - Solihull,Shropshire,22/12/2015,Minor,River
+2826,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,22/12/2015,Minor,River
+2828,55,3,R,York,Northeast - Leeds,York,22/12/2015,Minor,River
+1824,13,3,R,Cumbria,Northwest - Warrington,Cumbria,22/12/2015,Minor,River
+1824,13,2,R,Cumbria,Northwest - Warrington,Cumbria,22/12/2015,Significant,River
+1824,13,3,S,Cumbria,Northwest - Warrington,Cumbria,22/12/2015,Minor,Surface water
+1824,13,2,S,Cumbria,Northwest - Warrington,Cumbria,22/12/2015,Significant,Surface water
+1826,94,,,Powys,Wales,Powys,22/12/2015,,
+2827,33,3,R,Shropshire,Midlands - Solihull,Shropshire,23/12/2015,Minor,River
+2827,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,23/12/2015,Minor,River
+2827,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,23/12/2015,Minor,River
+2827,55,3,R,York,Northeast - Leeds,York,23/12/2015,Minor,River
+2827,11,3,R,Cheshire,Northwest - Warrington,Cheshire,23/12/2015,Minor,River
+2827,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,23/12/2015,Minor,River
+2835,33,3,R,Shropshire,Midlands - Solihull,Shropshire,24/12/2015,Minor,River
+2835,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,24/12/2015,Minor,River
+2835,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,24/12/2015,Minor,River
+2835,55,3,R,York,Northeast - Leeds,York,24/12/2015,Minor,River
+2836,33,3,R,Shropshire,Midlands - Solihull,Shropshire,25/12/2015,Minor,River
+2836,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,25/12/2015,Minor,River
+2836,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,25/12/2015,Minor,River
+2843,11,3,S,Cheshire,Northwest - Warrington,Cheshire,25/12/2015,Minor,Surface water
+2843,17,3,S,Durham,Northeast - Leeds,Durham,25/12/2015,Minor,Surface water
+2843,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,25/12/2015,Minor,Surface water
+2843,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,25/12/2015,Minor,Surface water
+2843,3,3,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,25/12/2015,Minor,Surface water
+2843,55,3,S,York,Northeast - Leeds,York,25/12/2015,Minor,Surface water
+2842,1,2,R,Merseyside,Northwest - Warrington,Merseyside,26/12/2015,Significant,River
+2842,1,3,S,Merseyside,Northwest - Warrington,Merseyside,26/12/2015,Minor,Surface water
+2832,11,3,R,Cheshire,Northwest - Warrington,Cheshire,26/12/2015,Minor,River
+2832,52,3,R,East Riding of Yorkshire,Northeast - Leeds,E Riding of Yorkshire,26/12/2015,Minor,River
+2832,11,3,S,Cheshire,Northwest - Warrington,Cheshire,26/12/2015,Minor,Surface water
+2832,52,3,S,East Riding of Yorkshire,Northeast - Leeds,E Riding of Yorkshire,26/12/2015,Minor,Surface water
+2832,29,3,S,Northumberland,Northeast - Leeds,Northumberland,26/12/2015,Minor,Surface water
+2832,3,3,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,26/12/2015,Minor,Surface water
+2852,96,3,C,Pembrokeshire,Wales,Pembrokeshire,26/12/2015,Minor,Coastal \ tidal
+2849,13,3,R,Cumbria,Northwest - Warrington,Cumbria,26/12/2015,Minor,River
+2849,13,3,S,Cumbria,Northwest - Warrington,Cumbria,26/12/2015,Minor,Surface water
+2831,49,1,R,Blackburn with Darwen,Northwest - Warrington,Blackburn with Darwen,26/12/2015,Severe,River
+2831,7,1,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,26/12/2015,Severe,River
+2831,24,1,R,Lancashire,Northwest - Warrington,Lancashire,26/12/2015,Severe,River
+2831,30,1,R,North Yorkshire,Northeast - Leeds,N Yorkshire,26/12/2015,Severe,River
+2831,5,1,R,West Yorkshire,Northeast - Leeds,W Yorkshire,26/12/2015,Severe,River
+2831,55,1,R,York,Northeast - Leeds,York,26/12/2015,Severe,River
+2831,49,2,S,Blackburn with Darwen,Northwest - Warrington,Blackburn with Darwen,26/12/2015,Significant,Surface water
+2831,7,2,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,26/12/2015,Significant,Surface water
+2831,47,2,S,Halton,Northwest - Warrington,Halton,26/12/2015,Significant,Surface water
+2831,24,2,S,Lancashire,Northwest - Warrington,Lancashire,26/12/2015,Significant,Surface water
+2831,30,2,S,North Yorkshire,Northeast - Leeds,N Yorkshire,26/12/2015,Significant,Surface water
+2831,44,2,S,Redcar and Cleveland,Northeast - Leeds,Redcar and Cleveland,26/12/2015,Significant,Surface water
+2831,48,2,S,Warrington,Northwest - Warrington,Warrington,26/12/2015,Significant,Surface water
+2831,5,2,S,West Yorkshire,Northeast - Leeds,W Yorkshire,26/12/2015,Significant,Surface water
+2830,90,3,R,Conwy,Wales,Conwy,26/12/2015,Minor,River
+2830,88,3,R,Isle of Anglesey,Wales,Isle of Anglesey,26/12/2015,Minor,River
+2830,93,3,R,Wrexham,Wales,Wrexham,26/12/2015,Minor,River
+2830,91,2,R,Denbighshire,Wales,Denbighshire,26/12/2015,Significant,River
+2830,89,2,R,Gwynedd,Wales,Gwynedd,26/12/2015,Significant,River
+2830,90,3,S,Conwy,Wales,Conwy,26/12/2015,Minor,Surface water
+2830,88,3,S,Isle of Anglesey,Wales,Isle of Anglesey,26/12/2015,Minor,Surface water
+2830,93,3,S,Wrexham,Wales,Wrexham,26/12/2015,Minor,Surface water
+2830,91,2,S,Denbighshire,Wales,Denbighshire,26/12/2015,Significant,Surface water
+2830,89,2,S,Gwynedd,Wales,Gwynedd,26/12/2015,Significant,Surface water
+2831,55,2,S,York,Northeast - Leeds,York,26/12/2015,Significant,Surface water
+2829,89,2,R,Gwynedd,Wales,Gwynedd,26/12/2015,Significant,River
+2837,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,26/12/2015,Minor,River
+2837,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,26/12/2015,Minor,River
+2834,5,1,R,West Yorkshire,Northeast - Leeds,W Yorkshire,26/12/2015,Severe,River
+2837,33,3,R,Shropshire,Midlands - Solihull,Shropshire,26/12/2015,Minor,River
+2833,55,1,R,York,Northeast - Leeds,York,26/12/2015,Severe,River
+2850,13,3,R,Cumbria,Northwest - Warrington,Cumbria,27/12/2015,Minor,River
+2844,7,1,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,27/12/2015,Severe,River
+2844,30,1,R,North Yorkshire,Northeast - Leeds,N Yorkshire,27/12/2015,Severe,River
+2844,5,1,R,West Yorkshire,Northeast - Leeds,W Yorkshire,27/12/2015,Severe,River
+2844,55,1,R,York,Northeast - Leeds,York,27/12/2015,Severe,River
+2846,90,3,R,Conwy,Wales,Conwy,27/12/2015,Minor,River
+2846,89,3,R,Gwynedd,Wales,Gwynedd,27/12/2015,Minor,River
+2846,90,3,S,Conwy,Wales,Conwy,27/12/2015,Minor,Surface water
+2846,89,3,S,Gwynedd,Wales,Gwynedd,27/12/2015,Minor,Surface water
+2845,24,2,R,Lancashire,Northwest - Warrington,Lancashire,27/12/2015,Significant,River
+2847,11,3,R,Cheshire,Northwest - Warrington,Cheshire,27/12/2015,Minor,River
+2838,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,27/12/2015,Minor,River
+2838,33,3,R,Shropshire,Midlands - Solihull,Shropshire,27/12/2015,Minor,River
+2838,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,27/12/2015,Minor,River
+2838,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,27/12/2015,Minor,River
+2848,24,2,R,Lancashire,Northwest - Warrington,Lancashire,28/12/2015,Significant,River
+2848,30,2,R,North Yorkshire,Northeast - Leeds,N Yorkshire,28/12/2015,Significant,River
+2848,55,2,R,York,Northeast - Leeds,York,28/12/2015,Significant,River
+2854,85,3,C,Portsmouth,Southeast South - Worthing,Portsmouth,28/12/2015,Minor,Coastal \ tidal
+2851,13,3,R,Cumbria,Northwest - Warrington,Cumbria,28/12/2015,Minor,River
+2839,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,28/12/2015,Minor,River
+2839,33,3,R,Shropshire,Midlands - Solihull,Shropshire,28/12/2015,Minor,River
+2839,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,28/12/2015,Minor,River
+2839,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,28/12/2015,Minor,River
+2840,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,29/12/2015,Minor,River
+2840,33,3,R,Shropshire,Midlands - Solihull,Shropshire,29/12/2015,Minor,River
+2840,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,29/12/2015,Minor,River
+2840,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,29/12/2015,Minor,River
+2853,13,3,R,Cumbria,Northwest - Warrington,Cumbria,29/12/2015,Minor,River
+2853,24,3,R,Lancashire,Northwest - Warrington,Lancashire,29/12/2015,Minor,River
+2853,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,29/12/2015,Minor,River
+2853,30,2,R,North Yorkshire,Northeast - Leeds,N Yorkshire,29/12/2015,Significant,River
+2853,55,2,R,York,Northeast - Leeds,York,29/12/2015,Significant,River
+2853,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,29/12/2015,Minor,Coastal \ tidal
+2853,15,3,C,Devon,Southwest - Exeter,Devon,29/12/2015,Minor,Coastal \ tidal
+2841,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,30/12/2015,Minor,River
+2841,33,3,R,Shropshire,Midlands - Solihull,Shropshire,30/12/2015,Minor,River
+2841,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,30/12/2015,Minor,River
+2841,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,30/12/2015,Minor,River
+2855,100,3,S,Bridgend,Wales,Bridgend,30/12/2015,Minor,Surface water
+2855,109,3,S,Cardiff,Wales,Cardiff,30/12/2015,Minor,Surface water
+2855,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,30/12/2015,Minor,Surface water
+2855,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,30/12/2015,Minor,Surface water
+2855,99,3,S,Neath Port Talbot,Wales,Neath Port Talbot,30/12/2015,Minor,Surface water
+2855,15,2,S,Devon,Southwest - Exeter,Devon,30/12/2015,Significant,Surface water
+2856,97,3,C,Carmarthenshire,Wales,Carmarthenshire,30/12/2015,Minor,Coastal \ tidal
+2856,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,30/12/2015,Minor,Coastal \ tidal
+2856,15,3,C,Devon,Southwest - Exeter,Devon,30/12/2015,Minor,Coastal \ tidal
+2856,88,3,C,Isle of Anglesey,Wales,Isle of Anglesey,30/12/2015,Minor,Coastal \ tidal
+2856,96,3,C,Pembrokeshire,Wales,Pembrokeshire,30/12/2015,Minor,Coastal \ tidal
+2857,13,3,R,Cumbria,Northwest - Warrington,Cumbria,30/12/2015,Minor,River
+2857,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,30/12/2015,Minor,River
+2857,24,3,R,Lancashire,Northwest - Warrington,Lancashire,30/12/2015,Minor,River
+2857,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,30/12/2015,Minor,River
+2857,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,30/12/2015,Minor,River
+2857,55,3,R,York,Northeast - Leeds,York,30/12/2015,Minor,River
+2858,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,31/12/2015,Minor,River
+2858,55,3,R,York,Northeast - Leeds,York,31/12/2015,Minor,River
+2859,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,31/12/2015,Minor,River
+2859,33,3,R,Shropshire,Midlands - Solihull,Shropshire,31/12/2015,Minor,River
+2859,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,31/12/2015,Minor,River
+2859,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,31/12/2015,Minor,River
+2860,15,3,S,Devon,Southwest - Exeter,Devon,31/12/2015,Minor,Surface water
+2861,55,3,R,York,Northeast - Leeds,York,01/01/2016,Minor,River
+2861,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,01/01/2016,Minor,Groundwater
+2862,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,01/01/2016,Minor,River
+2862,33,3,R,Shropshire,Midlands - Solihull,Shropshire,01/01/2016,Minor,River
+2862,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,01/01/2016,Minor,River
+2862,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,01/01/2016,Minor,River
+2865,34,,,Somerset,Southwest - Exeter,Somerset,01/01/2016,,
+2864,55,3,R,York,Northeast - Leeds,York,02/01/2016,Minor,River
+2864,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,02/01/2016,Minor,Groundwater
+2863,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,02/01/2016,Minor,River
+2863,33,3,R,Shropshire,Midlands - Solihull,Shropshire,02/01/2016,Minor,River
+2863,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,02/01/2016,Minor,River
+2863,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,02/01/2016,Minor,River
+2866,55,3,R,York,Northeast - Leeds,York,03/01/2016,Minor,River
+2866,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,03/01/2016,Minor,Groundwater
+2867,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,03/01/2016,Minor,River
+2867,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,03/01/2016,Minor,River
+2868,15,3,R,Devon,Southwest - Exeter,Devon,03/01/2016,Minor,River
+2868,97,3,S,Carmarthenshire,Wales,Carmarthenshire,03/01/2016,Minor,Surface water
+2868,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,03/01/2016,Minor,Surface water
+2868,15,3,S,Devon,Southwest - Exeter,Devon,03/01/2016,Minor,Surface water
+2868,16,3,S,Dorset,Southwest - Exeter,Dorset,03/01/2016,Minor,Surface water
+2868,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,03/01/2016,Minor,Surface water
+2868,107,3,S,Monmouthshire,Wales,Monmouthshire,03/01/2016,Minor,Surface water
+2868,96,3,S,Pembrokeshire,Wales,Pembrokeshire,03/01/2016,Minor,Surface water
+2868,98,3,S,Swansea,Wales,Swansea,03/01/2016,Minor,Surface water
+2868,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,03/01/2016,Minor,Surface water
+2870,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,04/01/2016,Minor,Surface water
+2870,3,3,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,04/01/2016,Minor,Surface water
+2869,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,04/01/2016,Minor,River
+2872,34,3,R,Somerset,Southwest - Exeter,Somerset,05/01/2016,Minor,River
+2872,34,3,S,Somerset,Southwest - Exeter,Somerset,05/01/2016,Minor,Surface water
+2871,23,3,R,Kent,Southeast South - Worthing,Kent,05/01/2016,Minor,River
+2871,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,05/01/2016,Minor,River
+2871,29,3,R,Northumberland,Northeast - Leeds,Northumberland,05/01/2016,Minor,River
+2871,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,05/01/2016,Minor,River
+2871,17,3,S,Durham,Northeast - Leeds,Durham,05/01/2016,Minor,Surface water
+2871,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,05/01/2016,Minor,Surface water
+2871,60,3,S,Herefordshire,Midlands - Solihull,Herefordshire,05/01/2016,Minor,Surface water
+2871,23,3,S,Kent,Southeast South - Worthing,Kent,05/01/2016,Minor,Surface water
+2871,43,3,S,Middlesbrough,Northeast - Leeds,Middlesbrough,05/01/2016,Minor,Surface water
+2871,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,05/01/2016,Minor,Surface water
+2871,44,3,S,Redcar and Cleveland,Northeast - Leeds,Redcar and Cleveland,05/01/2016,Minor,Surface water
+2871,3,3,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,05/01/2016,Minor,Surface water
+2871,29,2,S,Northumberland,Northeast - Leeds,Northumberland,05/01/2016,Significant,Surface water
+2876,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,05/01/2016,Minor,River
+2876,55,3,R,York,Northeast - Leeds,York,05/01/2016,Minor,River
+2877,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,06/01/2016,Minor,River
+2877,55,3,R,York,Northeast - Leeds,York,06/01/2016,Minor,River
+2881,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,06/01/2016,Minor,River
+2881,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,06/01/2016,Minor,River
+2873,29,3,R,Northumberland,Northeast - Leeds,Northumberland,06/01/2016,Minor,River
+2873,17,3,S,Durham,Northeast - Leeds,Durham,06/01/2016,Minor,Surface water
+2874,29,3,S,Northumberland,Northeast - Leeds,Northumberland,07/01/2016,Minor,Surface water
+2882,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,07/01/2016,Minor,River
+2882,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,07/01/2016,Minor,River
+2878,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,07/01/2016,Minor,River
+2878,55,3,R,York,Northeast - Leeds,York,07/01/2016,Minor,River
+2900,19,,,Essex,Anglian - Peterborough,Essex,07/01/2016,,
+2900,27,,,Norfolk,Anglian - Peterborough,Norfolk,07/01/2016,,
+2900,36,,,Suffolk,Anglian - Peterborough,Suffolk,07/01/2016,,
+2879,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,08/01/2016,Minor,River
+2879,55,3,R,York,Northeast - Leeds,York,08/01/2016,Minor,River
+2883,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,08/01/2016,Minor,River
+2883,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,08/01/2016,Minor,River
+2884,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,09/01/2016,Minor,River
+2884,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,09/01/2016,Minor,River
+2880,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,09/01/2016,Minor,River
+2880,55,3,R,York,Northeast - Leeds,York,09/01/2016,Minor,River
+2875,27,3,R,Norfolk,Anglian - Peterborough,Norfolk,09/01/2016,Minor,River
+2875,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,09/01/2016,Minor,Surface water
+2875,67,3,S,Plymouth,Southwest - Exeter,Plymouth,09/01/2016,Minor,Surface water
+2875,34,3,S,Somerset,Southwest - Exeter,Somerset,09/01/2016,Minor,Surface water
+2885,79,,,Reading,Southeast North - Reading,Reading,09/01/2016,,
+2886,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,10/01/2016,Minor,River
+2886,55,3,R,York,Northeast - Leeds,York,10/01/2016,Minor,River
+2886,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,10/01/2016,Minor,Groundwater
+2888,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,10/01/2016,Minor,River
+2888,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,10/01/2016,Minor,River
+2892,27,3,R,Norfolk,Anglian - Peterborough,Norfolk,10/01/2016,Minor,River
+2887,27,3,R,Norfolk,Anglian - Peterborough,Norfolk,10/01/2016,Minor,River
+2889,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,11/01/2016,Minor,Groundwater
+2893,6,3,S,Greater London,Southeast North - Reading,Gtr London,11/01/2016,Minor,Surface water
+2893,37,3,S,Surrey,Southeast North - Reading,Surrey,11/01/2016,Minor,Surface water
+2894,96,3,S,Pembrokeshire,Wales,Pembrokeshire,11/01/2016,Minor,Surface water
+2895,36,,,Suffolk,Anglian - Peterborough,Suffolk,11/01/2016,,
+2890,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,11/01/2016,Minor,Surface water
+2890,16,3,S,Dorset,Southwest - Exeter,Dorset,11/01/2016,Minor,Surface water
+2890,19,3,S,Essex,Anglian - Peterborough,Essex,11/01/2016,Minor,Surface water
+2890,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,11/01/2016,Minor,Surface water
+2890,96,3,S,Pembrokeshire,Wales,Pembrokeshire,11/01/2016,Minor,Surface water
+2891,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,11/01/2016,Minor,River
+2891,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,11/01/2016,Minor,River
+2891,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,11/01/2016,Minor,River
+2891,55,3,R,York,Northeast - Leeds,York,11/01/2016,Minor,River
+2896,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,12/01/2016,Minor,Groundwater
+2898,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,12/01/2016,Minor,River
+2898,55,3,R,York,Northeast - Leeds,York,12/01/2016,Minor,River
+2899,27,3,R,Norfolk,Anglian - Peterborough,Norfolk,12/01/2016,Minor,River
+2905,33,3,S,Shropshire,Midlands - Solihull,Shropshire,12/01/2016,Minor,Surface water
+2905,33,3,R,Shropshire,Midlands - Solihull,Shropshire,12/01/2016,Minor,River
+2901,90,3,C,Conwy,Wales,Conwy,12/01/2016,Minor,Coastal \ tidal
+2897,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,12/01/2016,Minor,River
+2897,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,12/01/2016,Minor,River
+2910,91,3,S,Denbighshire,Wales,Denbighshire,12/01/2016,Minor,Surface water
+2910,92,3,S,Flintshire,Wales,Flintshire,12/01/2016,Minor,Surface water
+2911,92,,,Flintshire,Wales,Flintshire,12/01/2016,,
+2912,92,3,S,Flintshire,Wales,Flintshire,13/01/2016,Minor,Surface water
+2902,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,13/01/2016,Minor,Groundwater
+2903,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,13/01/2016,Minor,River
+2903,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,13/01/2016,Minor,River
+2904,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,13/01/2016,Minor,River
+2904,55,3,R,York,Northeast - Leeds,York,13/01/2016,Minor,River
+2913,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,14/01/2016,Minor,Surface water
+2914,15,3,G,Devon,Southwest - Exeter,Devon,14/01/2016,Minor,Groundwater
+2907,10,3,R,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,14/01/2016,Minor,River
+2909,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,14/01/2016,Minor,River
+2906,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,14/01/2016,Minor,River
+2906,55,3,R,York,Northeast - Leeds,York,14/01/2016,Minor,River
+2906,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,14/01/2016,Minor,Surface water
+2906,44,3,S,Redcar and Cleveland,Northeast - Leeds,Redcar and Cleveland,14/01/2016,Minor,Surface water
+2908,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,14/01/2016,Minor,Groundwater
+2909,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,14/01/2016,Minor,River
+2915,55,3,R,York,Northeast - Leeds,York,15/01/2016,Minor,River
+2916,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,15/01/2016,Minor,River
+2916,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,15/01/2016,Minor,River
+2916,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,15/01/2016,Minor,Groundwater
+2917,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,16/01/2016,Minor,Groundwater
+2918,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,16/01/2016,Minor,River
+2918,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,16/01/2016,Minor,River
+2919,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,16/01/2016,Minor,River
+2919,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,16/01/2016,Minor,River
+2920,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,17/01/2016,Minor,Groundwater
+2942,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,18/01/2016,Minor,Groundwater
+2921,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,18/01/2016,Minor,Groundwater
+2923,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,18/01/2016,Minor,Groundwater
+2924,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,19/01/2016,Minor,Groundwater
+2922,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,19/01/2016,Minor,Groundwater
+2925,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,20/01/2016,Minor,Groundwater
+2926,30,3,G,North Yorkshire,Northeast - Leeds,N Yorkshire,21/01/2016,Minor,Groundwater
+2927,13,3,S,Cumbria,Northwest - Warrington,Cumbria,25/01/2016,Minor,Surface water
+2927,13,3,R,Cumbria,Northwest - Warrington,Cumbria,25/01/2016,Minor,River
+2928,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,25/01/2016,Minor,Surface water
+2929,90,3,C,Conwy,Wales,Conwy,25/01/2016,Minor,Coastal \ tidal
+2932,90,3,C,Conwy,Wales,Conwy,26/01/2016,Minor,Coastal \ tidal
+2932,89,3,C,Gwynedd,Wales,Gwynedd,26/01/2016,Minor,Coastal \ tidal
+2935,33,3,R,Shropshire,Midlands - Solihull,Shropshire,26/01/2016,Minor,River
+2930,13,3,R,Cumbria,Northwest - Warrington,Cumbria,26/01/2016,Minor,River
+2930,13,3,S,Cumbria,Northwest - Warrington,Cumbria,26/01/2016,Minor,Surface water
+2931,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,26/01/2016,Minor,Surface water
+2934,87,3,S,Isle of Wight,Southeast South - Worthing,Isle of Wight,27/01/2016,Minor,Surface water
+2937,55,3,R,York,Northeast - Leeds,York,27/01/2016,Minor,River
+2936,33,3,R,Shropshire,Midlands - Solihull,Shropshire,27/01/2016,Minor,River
+2933,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,27/01/2016,Minor,Surface water
+2938,33,3,R,Shropshire,Midlands - Solihull,Shropshire,28/01/2016,Minor,River
+2938,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,28/01/2016,Minor,River
+2939,55,3,R,York,Northeast - Leeds,York,28/01/2016,Minor,River
+2940,55,3,R,York,Northeast - Leeds,York,29/01/2016,Minor,River
+2941,97,3,S,Carmarthenshire,Wales,Carmarthenshire,29/01/2016,Minor,Surface water
+2943,12,3,R,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,06/02/2016,Minor,River
+2943,15,3,R,Devon,Southwest - Exeter,Devon,06/02/2016,Minor,River
+2943,38,3,R,Warwickshire,Midlands - Solihull,Warwickshire,06/02/2016,Minor,River
+2943,105,3,S,Blaenau Gwent,Wales,Blaenau Gwent,06/02/2016,Minor,Surface water
+2943,100,3,S,Bridgend,Wales,Bridgend,06/02/2016,Minor,Surface water
+2943,104,3,S,Caerphilly,Wales,Caerphilly,06/02/2016,Minor,Surface water
+2943,109,3,S,Cardiff,Wales,Cardiff,06/02/2016,Minor,Surface water
+2943,97,3,S,Carmarthenshire,Wales,Carmarthenshire,06/02/2016,Minor,Surface water
+2943,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,06/02/2016,Minor,Surface water
+2943,15,3,S,Devon,Southwest - Exeter,Devon,06/02/2016,Minor,Surface water
+2943,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,06/02/2016,Minor,Surface water
+2943,103,3,S,Merthyr Tydfil,Wales,Merthyr Tydfil,06/02/2016,Minor,Surface water
+2943,107,3,S,Monmouthshire,Wales,Monmouthshire,06/02/2016,Minor,Surface water
+2943,99,3,S,Neath Port Talbot,Wales,Neath Port Talbot,06/02/2016,Minor,Surface water
+2943,108,3,S,Newport,Wales,Newport,06/02/2016,Minor,Surface water
+2943,67,3,S,Plymouth,Southwest - Exeter,Plymouth,06/02/2016,Minor,Surface water
+2943,102,3,S,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,06/02/2016,Minor,Surface water
+2943,34,3,S,Somerset,Southwest - Exeter,Somerset,06/02/2016,Minor,Surface water
+2943,66,3,S,South Gloucestershire,Southwest - Exeter,S Gloucestershire,06/02/2016,Minor,Surface water
+2943,98,3,S,Swansea,Wales,Swansea,06/02/2016,Minor,Surface water
+2943,101,3,S,The Vale of Glamorgan,Wales,Vale of Glamorgan,06/02/2016,Minor,Surface water
+2943,106,3,S,Torfaen,Wales,Torfaen,06/02/2016,Minor,Surface water
+2943,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,06/02/2016,Minor,Surface water
+2943,40,3,S,Wiltshire,Southwest - Exeter,Wiltshire,06/02/2016,Minor,Surface water
+2943,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,06/02/2016,Minor,Surface water
+2943,12,2,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,06/02/2016,Significant,Surface water
+2943,15,2,S,Devon,Southwest - Exeter,Devon,06/02/2016,Significant,Surface water
+2944,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,07/02/2016,Minor,River
+2944,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,07/02/2016,Minor,River
+2944,38,3,R,Warwickshire,Midlands - Solihull,Warwickshire,07/02/2016,Minor,River
+2944,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,07/02/2016,Minor,River
+2947,15,3,S,Devon,Southwest - Exeter,Devon,07/02/2016,Minor,Surface water
+2947,16,3,S,Dorset,Southwest - Exeter,Dorset,07/02/2016,Minor,Surface water
+2947,34,3,S,Somerset,Southwest - Exeter,Somerset,07/02/2016,Minor,Surface water
+2955,15,3,R,Devon,Southwest - Exeter,Devon,07/02/2016,Minor,River
+2945,34,,,Somerset,Southwest - Exeter,Somerset,07/02/2016,,
+2946,11,,,Cheshire,Northwest - Warrington,Cheshire,07/02/2016,,
+2952,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,08/02/2016,Minor,River
+2952,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,08/02/2016,Minor,River
+2952,33,3,R,Shropshire,Midlands - Solihull,Shropshire,08/02/2016,Minor,River
+2952,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,08/02/2016,Minor,River
+2952,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,08/02/2016,Minor,River
+2950,100,3,C,Bridgend,Wales,Bridgend,08/02/2016,Minor,Coastal \ tidal
+2950,95,3,C,Ceredigion,Wales,Ceredigion,08/02/2016,Minor,Coastal \ tidal
+2948,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,08/02/2016,Minor,Surface water
+2948,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,08/02/2016,Minor,Surface water
+2948,15,3,S,Devon,Southwest - Exeter,Devon,08/02/2016,Minor,Surface water
+2948,16,3,S,Dorset,Southwest - Exeter,Dorset,08/02/2016,Minor,Surface water
+2948,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,08/02/2016,Minor,Surface water
+2948,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,08/02/2016,Minor,Surface water
+2948,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,08/02/2016,Minor,Surface water
+2948,89,3,C,Gwynedd,Wales,Gwynedd,08/02/2016,Minor,Coastal \ tidal
+2949,16,3,S,Dorset,Southwest - Exeter,Dorset,08/02/2016,Minor,Surface water
+2950,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,08/02/2016,Minor,Coastal \ tidal
+2950,65,3,C,North Somerset,Southwest - Exeter,N Somerset,08/02/2016,Minor,Coastal \ tidal
+2951,94,3,R,Powys,Wales,Powys,08/02/2016,Minor,River
+2951,94,3,S,Powys,Wales,Powys,08/02/2016,Minor,Surface water
+2953,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,09/02/2016,Minor,River
+2953,33,3,R,Shropshire,Midlands - Solihull,Shropshire,09/02/2016,Minor,River
+2953,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,09/02/2016,Minor,River
+2953,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,09/02/2016,Minor,River
+2954,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,10/02/2016,Minor,River
+2954,33,3,R,Shropshire,Midlands - Solihull,Shropshire,10/02/2016,Minor,River
+2954,61,3,R,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,10/02/2016,Minor,River
+2954,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,10/02/2016,Minor,River
+2956,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,12/02/2016,Minor,River
+2956,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,12/02/2016,Minor,River
+2957,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,13/02/2016,Minor,River
+2957,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,13/02/2016,Minor,River
+2958,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,14/02/2016,Minor,River
+2958,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,14/02/2016,Minor,River
+2959,15,3,S,Devon,Southwest - Exeter,Devon,15/02/2016,Minor,Surface water
+2960,13,3,R,Cumbria,Northwest - Warrington,Cumbria,17/02/2016,Minor,River
+2960,13,3,S,Cumbria,Northwest - Warrington,Cumbria,17/02/2016,Minor,Surface water
+2961,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,17/02/2016,Minor,Surface water
+2961,15,3,S,Devon,Southwest - Exeter,Devon,17/02/2016,Minor,Surface water
+2961,16,3,S,Dorset,Southwest - Exeter,Dorset,17/02/2016,Minor,Surface water
+2962,12,,,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,17/02/2016,,
+2962,15,,,Devon,Southwest - Exeter,Devon,17/02/2016,,
+2962,16,,,Dorset,Southwest - Exeter,Dorset,17/02/2016,,
+2963,95,3,S,Ceredigion,Wales,Ceredigion,20/02/2016,Minor,Surface water
+2963,89,3,S,Gwynedd,Wales,Gwynedd,20/02/2016,Minor,Surface water
+2963,94,3,S,Powys,Wales,Powys,20/02/2016,Minor,Surface water
+2964,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,24/02/2016,Minor,Surface water
+2965,12,,,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,26/02/2016,,
+2966,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,04/03/2016,Minor,Surface water
+2967,8,3,R,Bedfordshire,Anglian - Peterborough,Bedfordshire,09/03/2016,Minor,River
+2967,60,3,R,Herefordshire,Midlands - Solihull,Herefordshire,09/03/2016,Minor,River
+2967,57,3,R,Leicester,Midlands - Solihull,Leicester,09/03/2016,Minor,River
+2967,25,3,R,Leicestershire,Midlands - Solihull,Leicestershire,09/03/2016,Minor,River
+2967,83,3,R,Milton Keynes,Anglian - Peterborough,Milton Keynes,09/03/2016,Minor,River
+2967,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,09/03/2016,Minor,River
+2967,28,3,R,Northamptonshire,Anglian - Peterborough,Northamptonshire,09/03/2016,Minor,River
+2967,32,3,R,Oxfordshire,Southeast North - Reading,Oxfordshire,09/03/2016,Minor,River
+2967,58,3,R,Rutland,Anglian - Peterborough,Rutland,09/03/2016,Minor,River
+2967,38,3,R,Warwickshire,Midlands - Solihull,Warwickshire,09/03/2016,Minor,River
+2967,4,3,R,West Midlands,Midlands - Solihull,W Midlands,09/03/2016,Minor,River
+2967,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,09/03/2016,Minor,River
+2967,55,3,R,York,Northeast - Leeds,York,09/03/2016,Minor,River
+2967,10,2,R,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,09/03/2016,Significant,River
+2967,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,09/03/2016,Minor,Surface water
+2967,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,09/03/2016,Minor,Surface water
+2967,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,09/03/2016,Minor,Surface water
+2967,16,3,S,Dorset,Southwest - Exeter,Dorset,09/03/2016,Minor,Surface water
+2967,16,3,S,Dorset,Southwest - Exeter,Dorset,09/03/2016,Minor,Surface water
+2967,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,09/03/2016,Minor,Surface water
+2967,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,09/03/2016,Minor,Surface water
+2967,60,3,S,Herefordshire,Midlands - Solihull,Herefordshire,09/03/2016,Minor,Surface water
+2967,60,3,S,Herefordshire,Midlands - Solihull,Herefordshire,09/03/2016,Minor,Surface water
+2967,57,3,S,Leicester,Midlands - Solihull,Leicester,09/03/2016,Minor,Surface water
+2967,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,09/03/2016,Minor,Surface water
+2967,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,09/03/2016,Minor,Surface water
+2967,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,09/03/2016,Minor,Surface water
+2967,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,09/03/2016,Minor,Surface water
+2967,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,09/03/2016,Minor,Surface water
+2967,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,09/03/2016,Minor,Surface water
+2967,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,09/03/2016,Minor,Surface water
+2967,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,09/03/2016,Minor,Surface water
+2967,67,3,S,Plymouth,Southwest - Exeter,Plymouth,09/03/2016,Minor,Surface water
+2967,67,3,S,Plymouth,Southwest - Exeter,Plymouth,09/03/2016,Minor,Surface water
+2967,58,3,S,Rutland,Anglian - Peterborough,Rutland,09/03/2016,Minor,Surface water
+2967,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,09/03/2016,Minor,Surface water
+2967,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,09/03/2016,Minor,Surface water
+2967,4,3,S,West Midlands,Midlands - Solihull,W Midlands,09/03/2016,Minor,Surface water
+2967,4,3,S,West Midlands,Midlands - Solihull,W Midlands,09/03/2016,Minor,Surface water
+2967,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,09/03/2016,Minor,Surface water
+2967,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,09/03/2016,Minor,Surface water
+2967,55,3,S,York,Northeast - Leeds,York,09/03/2016,Minor,Surface water
+2968,8,3,R,Bedfordshire,Anglian - Peterborough,Bedfordshire,10/03/2016,Minor,River
+2968,9,3,R,Buckinghamshire,Southeast North - Reading,Buckinghamshire,10/03/2016,Minor,River
+2968,25,3,R,Leicestershire,Midlands - Solihull,Leicestershire,10/03/2016,Minor,River
+2968,83,3,R,Milton Keynes,Anglian - Peterborough,Milton Keynes,10/03/2016,Minor,River
+2968,28,3,R,Northamptonshire,Anglian - Peterborough,Northamptonshire,10/03/2016,Minor,River
+2968,32,3,R,Oxfordshire,Southeast North - Reading,Oxfordshire,10/03/2016,Minor,River
+2968,2,3,R,South Yorkshire,Northeast - Leeds,S Yorkshire,10/03/2016,Minor,River
+2968,35,3,R,Staffordshire,Midlands - Solihull,Staffordshire,10/03/2016,Minor,River
+2968,38,3,R,Warwickshire,Midlands - Solihull,Warwickshire,10/03/2016,Minor,River
+2968,40,3,R,Wiltshire,Southwest - Exeter,Wiltshire,10/03/2016,Minor,River
+2968,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,10/03/2016,Minor,River
+2968,10,2,R,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,10/03/2016,Significant,River
+2968,16,3,S,Dorset,Southwest - Exeter,Dorset,10/03/2016,Minor,Surface water
+2969,15,3,R,Devon,Southwest - Exeter,Devon,12/03/2016,Minor,River
+2970,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,12/03/2016,Minor,Surface water
+2970,15,3,S,Devon,Southwest - Exeter,Devon,12/03/2016,Minor,Surface water
+2972,20,3,R,Gloucestershire,Midlands - Solihull,Gloucestershire,13/03/2016,Minor,River
+2972,38,3,R,Warwickshire,Midlands - Solihull,Warwickshire,13/03/2016,Minor,River
+2972,41,3,R,Worcestershire,Midlands - Solihull,Worcestershire,13/03/2016,Minor,River
+2971,15,3,R,Devon,Southwest - Exeter,Devon,13/03/2016,Minor,River
+2974,16,3,S,Dorset,Southwest - Exeter,Dorset,28/03/2016,Minor,Surface water
+2975,15,3,S,Devon,Southwest - Exeter,Devon,28/03/2016,Minor,Surface water
+2973,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,28/03/2016,Minor,Surface water
+2976,94,3,S,Powys,Wales,Powys,28/03/2016,Minor,Surface water
+2977,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,28/03/2016,Minor,Surface water
+2978,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,28/03/2016,Minor,Surface water
+2979,35,3,R,Staffordshire,Midlands - Solihull,Staffordshire,28/03/2016,Minor,River
+2980,35,3,R,Staffordshire,Midlands - Solihull,Staffordshire,29/03/2016,Minor,River
+2981,12,3,C,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,10/04/2016,Minor,Coastal \ tidal
+2981,15,3,C,Devon,Southwest - Exeter,Devon,10/04/2016,Minor,Coastal \ tidal
+2981,6,3,C,Greater London,Southeast North - Reading,Gtr London,10/04/2016,Minor,Coastal \ tidal
+2982,51,3,S,"Kingston upon Hull, City of",Northeast - Leeds,Kingston upon Hull,12/04/2016,Minor,Surface water
+2984,19,3,S,Essex,Anglian - Peterborough,Essex,14/04/2016,Minor,Surface water
+2984,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,14/04/2016,Minor,Surface water
+2984,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,14/04/2016,Minor,Surface water
+2983,36,3,R,Suffolk,Anglian - Peterborough,Suffolk,14/04/2016,Minor,River
+2983,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,14/04/2016,Minor,Surface water
+2985,19,3,S,Essex,Anglian - Peterborough,Essex,15/04/2016,Minor,Surface water
+2985,6,3,S,Greater London,Southeast North - Reading,Gtr London,15/04/2016,Minor,Surface water
+2985,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,15/04/2016,Minor,Surface water
+2986,6,3,S,Greater London,Southeast North - Reading,Gtr London,29/04/2016,Minor,Surface water
+2987,4,3,S,West Midlands,Midlands - Solihull,W Midlands,07/05/2016,Minor,Surface water
+2989,6,3,S,Greater London,Southeast North - Reading,Gtr London,10/05/2016,Minor,Surface water
+2988,23,3,R,Kent,Southeast South - Worthing,Kent,11/05/2016,Minor,River
+2988,109,3,S,Cardiff,Wales,Cardiff,11/05/2016,Minor,Surface water
+2988,6,3,S,Greater London,Southeast North - Reading,Gtr London,11/05/2016,Minor,Surface water
+2988,107,3,S,Monmouthshire,Wales,Monmouthshire,11/05/2016,Minor,Surface water
+2988,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,11/05/2016,Minor,Surface water
+2988,80,3,S,Slough,Southeast North - Reading,Slough,11/05/2016,Minor,Surface water
+2988,34,3,S,Somerset,Southwest - Exeter,Somerset,11/05/2016,Minor,Surface water
+2988,37,3,S,Surrey,Southeast North - Reading,Surrey,11/05/2016,Minor,Surface water
+2988,71,3,S,Swindon,Southeast North - Reading,Swindon,11/05/2016,Minor,Surface water
+2988,40,3,S,Wiltshire,Southwest - Exeter,Wiltshire,11/05/2016,Minor,Surface water
+2988,82,3,S,Wokingham,Southeast North - Reading,Wokingham,11/05/2016,Minor,Surface water
+2990,16,3,S,Dorset,Southwest - Exeter,Dorset,12/05/2016,Minor,Surface water
+2991,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,23/05/2016,Minor,Surface water
+2991,94,3,S,Powys,Wales,Powys,23/05/2016,Minor,Surface water
+2992,99,3,S,Neath Port Talbot,Wales,Neath Port Talbot,27/05/2016,Minor,Surface water
+2995,97,3,S,Carmarthenshire,Wales,Carmarthenshire,28/05/2016,Minor,Surface water
+2996,98,3,S,Swansea,Wales,Swansea,28/05/2016,Minor,Surface water
+2993,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,28/05/2016,Minor,Surface water
+2994,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,28/05/2016,Minor,Surface water
+2997,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,31/05/2016,Minor,Surface water
+2997,19,3,S,Essex,Anglian - Peterborough,Essex,31/05/2016,Minor,Surface water
+2997,6,3,S,Greater London,Southeast North - Reading,Gtr London,31/05/2016,Minor,Surface water
+2997,23,3,S,Kent,Southeast South - Worthing,Kent,31/05/2016,Minor,Surface water
+2997,76,3,S,Medway,Southeast South - Worthing,Medway,31/05/2016,Minor,Surface water
+2997,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,31/05/2016,Minor,Surface water
+2997,74,3,S,Southend-on-Sea,Anglian - Peterborough,Southend-on-Sea,31/05/2016,Minor,Surface water
+2997,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,31/05/2016,Minor,Surface water
+2997,75,3,S,Thurrock,Anglian - Peterborough,Thurrock,31/05/2016,Minor,Surface water
+3000,11,,,Cheshire,Northwest - Warrington,Cheshire,04/06/2016,,
+2998,11,3,S,Cheshire,Northwest - Warrington,Cheshire,04/06/2016,Minor,Surface water
+2999,11,3,S,Cheshire,Northwest - Warrington,Cheshire,05/06/2016,Minor,Surface water
+3001,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,07/06/2016,Minor,Surface water
+3001,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,07/06/2016,Minor,Surface water
+3001,9,3,S,Buckinghamshire,Southeast North - Reading,Buckinghamshire,07/06/2016,Minor,Surface water
+3001,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,07/06/2016,Minor,Surface water
+3001,6,3,S,Greater London,Southeast North - Reading,Gtr London,07/06/2016,Minor,Surface water
+3001,23,3,S,Kent,Southeast South - Worthing,Kent,07/06/2016,Minor,Surface water
+3001,37,3,S,Surrey,Southeast North - Reading,Surrey,07/06/2016,Minor,Surface water
+3001,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,07/06/2016,Minor,Surface water
+3001,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,07/06/2016,Minor,Surface water
+3002,8,2,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,07/06/2016,Significant,Surface water
+3002,73,2,S,Luton,Southeast North - Reading,Luton,07/06/2016,Significant,Surface water
+3002,37,2,S,Surrey,Southeast North - Reading,Surrey,07/06/2016,Significant,Surface water
+3003,6,3,S,Greater London,Southeast North - Reading,Gtr London,08/06/2016,Minor,Surface water
+3003,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,08/06/2016,Minor,Surface water
+3003,24,3,S,Lancashire,Northwest - Warrington,Lancashire,08/06/2016,Minor,Surface water
+3003,62,3,S,Stoke-on-Trent,Midlands - Solihull,Stoke-on-Trent,08/06/2016,Minor,Surface water
+3003,4,3,S,West Midlands,Midlands - Solihull,W Midlands,08/06/2016,Minor,Surface water
+3003,4,2,S,West Midlands,Midlands - Solihull,W Midlands,08/06/2016,Significant,Surface water
+3005,11,3,S,Cheshire,Northwest - Warrington,Cheshire,10/06/2016,Minor,Surface water
+3005,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,10/06/2016,Minor,Surface water
+3005,1,3,S,Merseyside,Northwest - Warrington,Merseyside,10/06/2016,Minor,Surface water
+3005,59,3,S,Nottingham,Midlands - Solihull,Nottingham,10/06/2016,Minor,Surface water
+3005,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,10/06/2016,Minor,Surface water
+3005,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,10/06/2016,Minor,Surface water
+3005,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,10/06/2016,Minor,Surface water
+3005,4,3,S,West Midlands,Midlands - Solihull,W Midlands,10/06/2016,Minor,Surface water
+3004,1,3,R,Merseyside,Northwest - Warrington,Merseyside,10/06/2016,Minor,River
+3006,11,3,S,Cheshire,Northwest - Warrington,Cheshire,11/06/2016,Minor,Surface water
+3006,11,3,S,Cheshire,Northwest - Warrington,Cheshire,11/06/2016,Minor,Surface water
+3006,6,3,S,Greater London,Southeast North - Reading,Gtr London,11/06/2016,Minor,Surface water
+3006,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,11/06/2016,Minor,Surface water
+3006,24,3,S,Lancashire,Northwest - Warrington,Lancashire,11/06/2016,Minor,Surface water
+3006,24,3,S,Lancashire,Northwest - Warrington,Lancashire,11/06/2016,Minor,Surface water
+3006,24,3,S,Lancashire,Northwest - Warrington,Lancashire,11/06/2016,Minor,Surface water
+3006,1,3,S,Merseyside,Northwest - Warrington,Merseyside,11/06/2016,Minor,Surface water
+3006,37,3,S,Surrey,Southeast North - Reading,Surrey,11/06/2016,Minor,Surface water
+3006,37,3,S,Surrey,Southeast North - Reading,Surrey,11/06/2016,Minor,Surface water
+3006,37,3,S,Surrey,Southeast North - Reading,Surrey,11/06/2016,Minor,Surface water
+3011,11,3,S,Cheshire,Northwest - Warrington,Cheshire,12/06/2016,Minor,Surface water
+3011,11,2,S,Cheshire,Northwest - Warrington,Cheshire,12/06/2016,Significant,Surface water
+3008,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,12/06/2016,Minor,Surface water
+3007,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,12/06/2016,Minor,Surface water
+3007,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,12/06/2016,Minor,Surface water
+3009,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,12/06/2016,Minor,Surface water
+3009,19,3,S,Essex,Anglian - Peterborough,Essex,12/06/2016,Minor,Surface water
+3009,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,12/06/2016,Minor,Surface water
+3009,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,12/06/2016,Minor,Surface water
+3009,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,12/06/2016,Minor,Surface water
+3009,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,12/06/2016,Minor,Surface water
+3009,93,3,S,Wrexham,Wales,Wrexham,12/06/2016,Minor,Surface water
+3010,11,3,S,Cheshire,Northwest - Warrington,Cheshire,13/06/2016,Minor,Surface water
+3010,13,3,S,Cumbria,Northwest - Warrington,Cumbria,13/06/2016,Minor,Surface water
+3010,19,3,S,Essex,Anglian - Peterborough,Essex,13/06/2016,Minor,Surface water
+3010,24,3,S,Lancashire,Northwest - Warrington,Lancashire,13/06/2016,Minor,Surface water
+3010,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,13/06/2016,Minor,Surface water
+3010,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,13/06/2016,Minor,Surface water
+3010,11,2,S,Cheshire,Northwest - Warrington,Cheshire,13/06/2016,Significant,Surface water
+3014,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,14/06/2016,Minor,Surface water
+3014,92,3,S,Flintshire,Wales,Flintshire,14/06/2016,Minor,Surface water
+3014,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,14/06/2016,Minor,Surface water
+3014,24,3,S,Lancashire,Northwest - Warrington,Lancashire,14/06/2016,Minor,Surface water
+3014,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,14/06/2016,Minor,Surface water
+3014,33,3,S,Shropshire,Midlands - Solihull,Shropshire,14/06/2016,Minor,Surface water
+3014,61,3,S,Telford and Wrekin,Midlands - Solihull,Telford and Wrekin,14/06/2016,Minor,Surface water
+3014,93,3,S,Wrexham,Wales,Wrexham,14/06/2016,Minor,Surface water
+3013,11,3,S,Cheshire,Northwest - Warrington,Cheshire,14/06/2016,Minor,Surface water
+3013,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,14/06/2016,Minor,Surface water
+3012,4,3,S,West Midlands,Midlands - Solihull,W Midlands,14/06/2016,Minor,Surface water
+3012,4,2,S,West Midlands,Midlands - Solihull,W Midlands,14/06/2016,Significant,Surface water
+3015,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,14/06/2016,Minor,Surface water
+3016,19,3,S,Essex,Anglian - Peterborough,Essex,14/06/2016,Minor,Surface water
+3018,9,3,S,Buckinghamshire,Southeast North - Reading,Buckinghamshire,15/06/2016,Minor,Surface water
+3018,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,15/06/2016,Minor,Surface water
+3018,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,15/06/2016,Minor,Surface water
+3017,14,3,R,Derbyshire,Midlands - Solihull,Derbyshire,15/06/2016,Minor,River
+3017,15,3,R,Devon,Southwest - Exeter,Devon,15/06/2016,Minor,River
+3017,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,15/06/2016,Minor,Surface water
+3017,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,15/06/2016,Minor,Surface water
+3017,15,3,S,Devon,Southwest - Exeter,Devon,15/06/2016,Minor,Surface water
+3017,24,3,S,Lancashire,Northwest - Warrington,Lancashire,15/06/2016,Minor,Surface water
+3017,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,15/06/2016,Minor,Surface water
+3019,64,3,S,"Bristol, City of",Southwest - Exeter,Bristol,15/06/2016,Minor,Surface water
+3019,97,3,S,Carmarthenshire,Wales,Carmarthenshire,15/06/2016,Minor,Surface water
+3019,11,3,S,Cheshire,Northwest - Warrington,Cheshire,15/06/2016,Minor,Surface water
+3019,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,15/06/2016,Minor,Surface water
+3019,15,3,S,Devon,Southwest - Exeter,Devon,15/06/2016,Minor,Surface water
+3019,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,15/06/2016,Minor,Surface water
+3019,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,15/06/2016,Minor,Surface water
+3019,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,15/06/2016,Minor,Surface water
+3019,57,3,S,Leicester,Midlands - Solihull,Leicester,15/06/2016,Minor,Surface water
+3019,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,15/06/2016,Minor,Surface water
+3019,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,15/06/2016,Minor,Surface water
+3019,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,15/06/2016,Minor,Surface water
+3019,59,3,S,Nottingham,Midlands - Solihull,Nottingham,15/06/2016,Minor,Surface water
+3019,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,15/06/2016,Minor,Surface water
+3019,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,15/06/2016,Minor,Surface water
+3019,34,3,S,Somerset,Southwest - Exeter,Somerset,15/06/2016,Minor,Surface water
+3019,66,3,S,South Gloucestershire,Southwest - Exeter,S Gloucestershire,15/06/2016,Minor,Surface water
+3019,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,15/06/2016,Minor,Surface water
+3019,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,15/06/2016,Minor,Surface water
+3019,98,3,S,Swansea,Wales,Swansea,15/06/2016,Minor,Surface water
+3019,71,3,S,Swindon,Southeast North - Reading,Swindon,15/06/2016,Minor,Surface water
+3019,4,3,S,West Midlands,Midlands - Solihull,W Midlands,15/06/2016,Minor,Surface water
+3019,40,3,S,Wiltshire,Southwest - Exeter,Wiltshire,15/06/2016,Minor,Surface water
+3020,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,16/06/2016,Minor,River
+3020,4,2,R,West Midlands,Midlands - Solihull,W Midlands,16/06/2016,Significant,River
+3020,49,3,S,Blackburn with Darwen,Northwest - Warrington,Blackburn with Darwen,16/06/2016,Minor,Surface water
+3020,11,3,S,Cheshire,Northwest - Warrington,Cheshire,16/06/2016,Minor,Surface water
+3020,15,3,S,Devon,Southwest - Exeter,Devon,16/06/2016,Minor,Surface water
+3020,6,3,S,Greater London,Southeast North - Reading,Gtr London,16/06/2016,Minor,Surface water
+3020,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,16/06/2016,Minor,Surface water
+3020,24,3,S,Lancashire,Northwest - Warrington,Lancashire,16/06/2016,Minor,Surface water
+3020,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,16/06/2016,Minor,Surface water
+3020,1,3,S,Merseyside,Northwest - Warrington,Merseyside,16/06/2016,Minor,Surface water
+3020,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,16/06/2016,Minor,Surface water
+3020,59,3,S,Nottingham,Midlands - Solihull,Nottingham,16/06/2016,Minor,Surface water
+3020,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,16/06/2016,Minor,Surface water
+3020,2,3,S,South Yorkshire,Northeast - Leeds,S Yorkshire,16/06/2016,Minor,Surface water
+3020,86,3,S,Southampton,Southeast South - Worthing,Southampton,16/06/2016,Minor,Surface water
+3020,37,3,S,Surrey,Southeast North - Reading,Surrey,16/06/2016,Minor,Surface water
+3020,48,3,S,Warrington,Northwest - Warrington,Warrington,16/06/2016,Minor,Surface water
+3020,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,16/06/2016,Minor,Surface water
+3020,4,2,S,West Midlands,Midlands - Solihull,W Midlands,16/06/2016,Significant,Surface water
+3022,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,17/06/2016,Minor,Surface water
+3023,16,3,S,Dorset,Southwest - Exeter,Dorset,17/06/2016,Minor,Surface water
+3029,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,17/06/2016,Minor,Surface water
+3030,19,3,S,Essex,Anglian - Peterborough,Essex,17/06/2016,Minor,Surface water
+3024,6,3,S,Greater London,Southeast North - Reading,Gtr London,17/06/2016,Minor,Surface water
+3021,23,3,S,Kent,Southeast South - Worthing,Kent,17/06/2016,Minor,Surface water
+3025,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,17/06/2016,Minor,Surface water
+3027,34,3,R,Somerset,Southwest - Exeter,Somerset,17/06/2016,Minor,River
+3027,34,3,S,Somerset,Southwest - Exeter,Somerset,17/06/2016,Minor,Surface water
+3028,98,3,S,Swansea,Wales,Swansea,17/06/2016,Minor,Surface water
+3026,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,17/06/2016,Minor,Surface water
+3031,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,20/06/2016,Minor,Surface water
+3032,76,3,R,Medway,Southeast South - Worthing,Medway,22/06/2016,Minor,River
+3032,84,3,R,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,22/06/2016,Minor,River
+3032,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3032,23,3,R,Kent,Southeast South - Worthing,Kent,22/06/2016,Minor,River
+3032,37,3,R,Surrey,Southeast North - Reading,Surrey,22/06/2016,Minor,River
+3032,39,3,R,West Sussex,Southeast South - Worthing,W Sussex,22/06/2016,Minor,River
+3046,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,22/06/2016,Minor,Surface water
+3033,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3033,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,22/06/2016,Minor,Surface water
+3047,84,,,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,22/06/2016,,
+3034,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3035,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3036,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3037,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3038,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3039,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3040,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3041,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3042,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3043,18,3,R,East Sussex,Southeast South - Worthing,E Sussex,22/06/2016,Minor,River
+3048,6,3,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Minor,Surface water
+3050,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,23/06/2016,Minor,Surface water
+3053,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,23/06/2016,Minor,Surface water
+3054,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,23/06/2016,Minor,Surface water
+3049,6,2,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Significant,Surface water
+3044,22,2,S,Hertfordshire,Southeast North - Reading,Hertfordshire,23/06/2016,Significant,Surface water
+3044,23,2,S,Kent,Southeast South - Worthing,Kent,23/06/2016,Significant,Surface water
+3044,37,2,S,Surrey,Southeast North - Reading,Surrey,23/06/2016,Significant,Surface water
+3044,6,2,R,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Significant,River
+3044,6,3,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Minor,Surface water
+3044,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,23/06/2016,Minor,Surface water
+3044,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,23/06/2016,Minor,Surface water
+3044,19,2,S,Essex,Anglian - Peterborough,Essex,23/06/2016,Significant,Surface water
+3044,6,2,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Significant,Surface water
+3045,6,3,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Minor,Surface water
+3051,6,2,R,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Significant,River
+3051,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,23/06/2016,Minor,Surface water
+3051,6,3,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Minor,Surface water
+3051,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,23/06/2016,Minor,Surface water
+3051,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,23/06/2016,Minor,Surface water
+3051,37,3,S,Surrey,Southeast North - Reading,Surrey,23/06/2016,Minor,Surface water
+3051,6,2,S,Greater London,Southeast North - Reading,Gtr London,23/06/2016,Significant,Surface water
+3051,21,2,S,Hampshire,Southeast South - Worthing,Hampshire,23/06/2016,Significant,Surface water
+3052,13,3,R,Cumbria,Northwest - Warrington,Cumbria,24/06/2016,Minor,River
+3055,23,3,R,Kent,Southeast South - Worthing,Kent,25/06/2016,Minor,River
+3055,19,3,S,Essex,Anglian - Peterborough,Essex,25/06/2016,Minor,Surface water
+3055,23,3,S,Kent,Southeast South - Worthing,Kent,25/06/2016,Minor,Surface water
+3055,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,25/06/2016,Minor,Surface water
+3055,85,3,S,Portsmouth,Southeast South - Worthing,Portsmouth,25/06/2016,Minor,Surface water
+3055,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,25/06/2016,Minor,Surface water
+3055,37,3,S,Surrey,Southeast North - Reading,Surrey,25/06/2016,Minor,Surface water
+3056,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,26/06/2016,Minor,Surface water
+3056,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,26/06/2016,Minor,Surface water
+3057,56,,,Derby,Midlands - Solihull,Derby,29/06/2016,,
+3062,6,3,S,Greater London,Southeast North - Reading,Gtr London,04/07/2016,Minor,Surface water
+3062,18,3,S,East Sussex,Southeast South - Worthing,E Sussex,04/07/2016,Minor,Surface water
+3062,19,3,S,Essex,Anglian - Peterborough,Essex,04/07/2016,Minor,Surface water
+3062,23,3,S,Kent,Southeast South - Worthing,Kent,04/07/2016,Minor,Surface water
+3062,37,3,S,Surrey,Southeast North - Reading,Surrey,04/07/2016,Minor,Surface water
+3062,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,04/07/2016,Minor,Surface water
+3062,74,3,S,Southend-on-Sea,Anglian - Peterborough,Southend-on-Sea,04/07/2016,Minor,Surface water
+3062,75,3,S,Thurrock,Anglian - Peterborough,Thurrock,04/07/2016,Minor,Surface water
+3062,76,3,S,Medway,Southeast South - Worthing,Medway,04/07/2016,Minor,Surface water
+3062,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,04/07/2016,Minor,Surface water
+3060,40,2,G,Wiltshire,Southwest - Exeter,Wiltshire,04/07/2016,Significant,Groundwater
+3059,60,2,G,Herefordshire,Midlands - Solihull,Herefordshire,04/07/2016,Significant,Groundwater
+3061,27,2,G,Norfolk,Anglian - Peterborough,Norfolk,04/07/2016,Significant,Groundwater
+3061,36,2,G,Suffolk,Anglian - Peterborough,Suffolk,04/07/2016,Significant,Groundwater
+3058,94,2,G,Powys,Wales,Powys,04/07/2016,Significant,Groundwater
+3058,95,2,G,Ceredigion,Wales,Ceredigion,04/07/2016,Significant,Groundwater
+3058,96,2,G,Pembrokeshire,Wales,Pembrokeshire,04/07/2016,Significant,Groundwater
+3058,97,2,G,Carmarthenshire,Wales,Carmarthenshire,04/07/2016,Significant,Groundwater
+3058,98,2,G,Swansea,Wales,Swansea,04/07/2016,Significant,Groundwater
+3058,99,2,G,Neath Port Talbot,Wales,Neath Port Talbot,04/07/2016,Significant,Groundwater
+3058,100,2,G,Bridgend,Wales,Bridgend,04/07/2016,Significant,Groundwater
+3058,101,2,G,The Vale of Glamorgan,Wales,Vale of Glamorgan,04/07/2016,Significant,Groundwater
+3058,102,2,G,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,04/07/2016,Significant,Groundwater
+3058,103,2,G,Merthyr Tydfil,Wales,Merthyr Tydfil,04/07/2016,Significant,Groundwater
+3058,104,2,G,Caerphilly,Wales,Caerphilly,04/07/2016,Significant,Groundwater
+3058,105,2,G,Blaenau Gwent,Wales,Blaenau Gwent,04/07/2016,Significant,Groundwater
+3058,106,2,G,Torfaen,Wales,Torfaen,04/07/2016,Significant,Groundwater
+3058,107,2,G,Monmouthshire,Wales,Monmouthshire,04/07/2016,Significant,Groundwater
+3058,108,2,G,Newport,Wales,Newport,04/07/2016,Significant,Groundwater
+3058,109,2,G,Cardiff,Wales,Cardiff,04/07/2016,Significant,Groundwater
+3063,12,3,R,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,08/07/2016,Minor,River
+3063,15,3,R,Devon,Southwest - Exeter,Devon,08/07/2016,Minor,River
+3063,16,3,R,Dorset,Southwest - Exeter,Dorset,08/07/2016,Minor,River
+3064,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,09/07/2016,Minor,Surface water
+3065,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,11/07/2016,Minor,Surface water
+3066,84,3,S,Brighton and Hove,Southeast South - Worthing,Brighton and Hove,12/07/2016,Minor,Surface water
+3066,19,3,S,Essex,Anglian - Peterborough,Essex,12/07/2016,Minor,Surface water
+3066,6,3,S,Greater London,Southeast North - Reading,Gtr London,12/07/2016,Minor,Surface water
+3066,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,12/07/2016,Minor,Surface water
+3066,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,12/07/2016,Minor,Surface water
+3066,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,12/07/2016,Minor,Surface water
+3066,37,3,S,Surrey,Southeast North - Reading,Surrey,12/07/2016,Minor,Surface water
+3066,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,12/07/2016,Minor,Surface water
+3067,13,3,S,Cumbria,Northwest - Warrington,Cumbria,20/07/2016,Minor,Surface water
+3068,15,3,S,Devon,Southwest - Exeter,Devon,13/08/2016,Minor,Surface water
+3068,12,2,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,13/08/2016,Significant,Surface water
+3068,16,1,S,Dorset,Southwest - Exeter,Dorset,13/08/2016,Severe,Surface water
+3069,13,3,S,Cumbria,Northwest - Warrington,Cumbria,20/08/2016,Minor,Surface water
+3071,15,3,C,Devon,Southwest - Exeter,Devon,20/08/2016,Minor,Coastal \ tidal
+3072,13,3,R,Cumbria,Northwest - Warrington,Cumbria,22/08/2016,Minor,River
+3072,24,3,R,Lancashire,Northwest - Warrington,Lancashire,22/08/2016,Minor,River
+3072,13,3,S,Cumbria,Northwest - Warrington,Cumbria,22/08/2016,Minor,Surface water
+3072,24,3,S,Lancashire,Northwest - Warrington,Lancashire,22/08/2016,Minor,Surface water
+3073,30,,,North Yorkshire,Northeast - Leeds,N Yorkshire,22/08/2016,,
+3083,24,3,S,Lancashire,Northwest - Warrington,Lancashire,26/08/2016,Minor,Surface water
+3080,4,3,S,West Midlands,Midlands - Solihull,W Midlands,27/08/2016,Minor,Surface water
+3080,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,27/08/2016,Minor,Surface water
+3080,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,27/08/2016,Minor,Surface water
+3080,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,27/08/2016,Minor,Surface water
+3080,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,27/08/2016,Minor,Surface water
+3080,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,27/08/2016,Minor,Surface water
+3080,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,27/08/2016,Minor,Surface water
+3080,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,27/08/2016,Minor,Surface water
+3080,57,3,S,Leicester,Midlands - Solihull,Leicester,27/08/2016,Minor,Surface water
+3080,58,3,S,Rutland,Anglian - Peterborough,Rutland,27/08/2016,Minor,Surface water
+3080,59,3,S,Nottingham,Midlands - Solihull,Nottingham,27/08/2016,Minor,Surface water
+3080,72,3,S,Peterborough,Anglian - Peterborough,Peterborough,27/08/2016,Minor,Surface water
+3075,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,27/08/2016,Minor,Surface water
+3075,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,27/08/2016,Minor,Surface water
+3075,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,27/08/2016,Minor,Surface water
+3075,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,27/08/2016,Minor,Surface water
+3075,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,27/08/2016,Minor,Surface water
+3075,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,27/08/2016,Minor,Surface water
+3075,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,27/08/2016,Minor,Surface water
+3075,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,27/08/2016,Minor,Surface water
+3075,37,3,S,Surrey,Southeast North - Reading,Surrey,27/08/2016,Minor,Surface water
+3075,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,27/08/2016,Minor,Surface water
+3075,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,27/08/2016,Minor,Surface water
+3075,4,3,S,West Midlands,Midlands - Solihull,W Midlands,27/08/2016,Minor,Surface water
+3075,16,2,S,Dorset,Southwest - Exeter,Dorset,27/08/2016,Significant,Surface water
+3075,26,2,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,27/08/2016,Significant,Surface water
+3075,40,2,S,Wiltshire,Southwest - Exeter,Wiltshire,27/08/2016,Significant,Surface water
+3076,71,2,S,Swindon,Southeast North - Reading,Swindon,27/08/2016,Significant,Surface water
+3076,71,3,S,Swindon,Southeast North - Reading,Swindon,27/08/2016,Minor,Surface water
+3074,4,3,S,West Midlands,Midlands - Solihull,W Midlands,27/08/2016,Minor,Surface water
+3074,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,27/08/2016,Minor,Surface water
+3074,9,3,S,Buckinghamshire,Southeast North - Reading,Buckinghamshire,27/08/2016,Minor,Surface water
+3074,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,27/08/2016,Minor,Surface water
+3074,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,27/08/2016,Minor,Surface water
+3074,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,27/08/2016,Minor,Surface water
+3074,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,27/08/2016,Minor,Surface water
+3074,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,27/08/2016,Minor,Surface water
+3074,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,27/08/2016,Minor,Surface water
+3074,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,27/08/2016,Minor,Surface water
+3074,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,27/08/2016,Minor,Surface water
+3074,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,27/08/2016,Minor,Surface water
+3074,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,27/08/2016,Minor,Surface water
+3074,35,3,S,Staffordshire,Midlands - Solihull,Staffordshire,27/08/2016,Minor,Surface water
+3074,37,3,S,Surrey,Southeast North - Reading,Surrey,27/08/2016,Minor,Surface water
+3074,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,27/08/2016,Minor,Surface water
+3074,40,3,S,Wiltshire,Southwest - Exeter,Wiltshire,27/08/2016,Minor,Surface water
+3074,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,27/08/2016,Minor,Surface water
+3074,56,3,S,Derby,Midlands - Solihull,Derby,27/08/2016,Minor,Surface water
+3074,57,3,S,Leicester,Midlands - Solihull,Leicester,27/08/2016,Minor,Surface water
+3074,58,3,S,Rutland,Anglian - Peterborough,Rutland,27/08/2016,Minor,Surface water
+3074,59,3,S,Nottingham,Midlands - Solihull,Nottingham,27/08/2016,Minor,Surface water
+3074,71,3,S,Swindon,Southeast North - Reading,Swindon,27/08/2016,Minor,Surface water
+3074,72,3,S,Peterborough,Anglian - Peterborough,Peterborough,27/08/2016,Minor,Surface water
+3074,73,3,S,Luton,Southeast North - Reading,Luton,27/08/2016,Minor,Surface water
+3074,77,3,S,Bracknell Forest,Southeast North - Reading,Bracknell Forest,27/08/2016,Minor,Surface water
+3074,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,27/08/2016,Minor,Surface water
+3074,79,3,S,Reading,Southeast North - Reading,Reading,27/08/2016,Minor,Surface water
+3074,80,3,S,Slough,Southeast North - Reading,Slough,27/08/2016,Minor,Surface water
+3074,81,3,S,Windsor and Maidenhead,Southeast North - Reading,Windsor and Maidenhead,27/08/2016,Minor,Surface water
+3074,82,3,S,Wokingham,Southeast North - Reading,Wokingham,27/08/2016,Minor,Surface water
+3074,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,27/08/2016,Minor,Surface water
+3077,57,2,S,Leicester,Midlands - Solihull,Leicester,27/08/2016,Significant,Surface water
+3077,57,3,S,Leicester,Midlands - Solihull,Leicester,27/08/2016,Minor,Surface water
+3081,4,3,S,West Midlands,Midlands - Solihull,W Midlands,27/08/2016,Minor,Surface water
+3081,9,3,S,Buckinghamshire,Southeast North - Reading,Buckinghamshire,27/08/2016,Minor,Surface water
+3081,20,3,S,Gloucestershire,Midlands - Solihull,Gloucestershire,27/08/2016,Minor,Surface water
+3081,25,3,S,Leicestershire,Midlands - Solihull,Leicestershire,27/08/2016,Minor,Surface water
+3081,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,27/08/2016,Minor,Surface water
+3081,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,27/08/2016,Minor,Surface water
+3081,31,3,S,Nottinghamshire,Midlands - Solihull,Nottinghamshire,27/08/2016,Minor,Surface water
+3081,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,27/08/2016,Minor,Surface water
+3081,38,3,S,Warwickshire,Midlands - Solihull,Warwickshire,27/08/2016,Minor,Surface water
+3081,40,3,S,Wiltshire,Southwest - Exeter,Wiltshire,27/08/2016,Minor,Surface water
+3081,41,3,S,Worcestershire,Midlands - Solihull,Worcestershire,27/08/2016,Minor,Surface water
+3081,57,3,S,Leicester,Midlands - Solihull,Leicester,27/08/2016,Minor,Surface water
+3081,58,3,S,Rutland,Anglian - Peterborough,Rutland,27/08/2016,Minor,Surface water
+3081,59,3,S,Nottingham,Midlands - Solihull,Nottingham,27/08/2016,Minor,Surface water
+3081,71,3,S,Swindon,Southeast North - Reading,Swindon,27/08/2016,Minor,Surface water
+3081,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,27/08/2016,Minor,Surface water
+3079,56,3,S,Derby,Midlands - Solihull,Derby,27/08/2016,Minor,Surface water
+3079,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,27/08/2016,Minor,Surface water
+3079,57,3,S,Leicester,Midlands - Solihull,Leicester,27/08/2016,Minor,Surface water
+3079,26,3,S,Lincolnshire,Anglian - Peterborough,Lincolnshire,27/08/2016,Minor,Surface water
+3079,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,27/08/2016,Minor,Surface water
+3079,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,27/08/2016,Minor,Surface water
+3079,28,3,S,Northamptonshire,Anglian - Peterborough,Northamptonshire,27/08/2016,Minor,Surface water
+3079,59,3,S,Nottingham,Midlands - Solihull,Nottingham,27/08/2016,Minor,Surface water
+3079,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,27/08/2016,Minor,Surface water
+3079,72,3,S,Peterborough,Anglian - Peterborough,Peterborough,27/08/2016,Minor,Surface water
+3079,71,3,S,Swindon,Southeast North - Reading,Swindon,27/08/2016,Minor,Surface water
+3082,90,3,S,Conwy,Wales,Conwy,28/08/2016,Minor,Surface water
+3082,13,3,S,Cumbria,Northwest - Warrington,Cumbria,28/08/2016,Minor,Surface water
+3082,17,3,S,Durham,Northeast - Leeds,Durham,28/08/2016,Minor,Surface water
+3082,89,3,S,Gwynedd,Wales,Gwynedd,28/08/2016,Minor,Surface water
+3082,24,3,S,Lancashire,Northwest - Warrington,Lancashire,28/08/2016,Minor,Surface water
+3082,43,3,S,Middlesbrough,Northeast - Leeds,Middlesbrough,28/08/2016,Minor,Surface water
+3082,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,28/08/2016,Minor,Surface water
+3082,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,28/08/2016,Minor,Surface water
+3082,29,3,S,Northumberland,Northeast - Leeds,Northumberland,28/08/2016,Minor,Surface water
+3082,3,3,S,Tyne and Wear,Northeast - Leeds,Tyne and Wear,28/08/2016,Minor,Surface water
+3084,97,3,S,Carmarthenshire,Wales,Carmarthenshire,03/09/2016,Minor,Surface water
+3084,15,3,S,Devon,Southwest - Exeter,Devon,03/09/2016,Minor,Surface water
+3084,103,3,S,Merthyr Tydfil,Wales,Merthyr Tydfil,03/09/2016,Minor,Surface water
+3084,99,3,S,Neath Port Talbot,Wales,Neath Port Talbot,03/09/2016,Minor,Surface water
+3084,94,3,S,Powys,Wales,Powys,03/09/2016,Minor,Surface water
+3084,102,3,S,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,03/09/2016,Minor,Surface water
+3084,98,3,S,Swansea,Wales,Swansea,03/09/2016,Minor,Surface water
+3085,24,3,R,Lancashire,Northwest - Warrington,Lancashire,13/09/2016,Minor,River
+3085,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,13/09/2016,Minor,Surface water
+3085,17,3,S,Durham,Northeast - Leeds,Durham,13/09/2016,Minor,Surface water
+3085,24,3,S,Lancashire,Northwest - Warrington,Lancashire,13/09/2016,Minor,Surface water
+3085,62,3,S,Stoke-on-Trent,Midlands - Solihull,Stoke-on-Trent,13/09/2016,Minor,Surface water
+3085,11,2,S,Cheshire,Northwest - Warrington,Cheshire,13/09/2016,Significant,Surface water
+3085,12,2,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,13/09/2016,Significant,Surface water
+3087,11,3,R,Cheshire,Northwest - Warrington,Cheshire,13/09/2016,Minor,River
+3087,11,2,S,Cheshire,Northwest - Warrington,Cheshire,13/09/2016,Significant,Surface water
+3088,11,2,S,Cheshire,Northwest - Warrington,Cheshire,13/09/2016,Significant,Surface water
+3089,35,2,S,Staffordshire,Midlands - Solihull,Staffordshire,13/09/2016,Significant,Surface water
+3090,14,2,S,Derbyshire,Midlands - Solihull,Derbyshire,13/09/2016,Significant,Surface water
+3091,30,2,S,North Yorkshire,Northeast - Leeds,N Yorkshire,13/09/2016,Significant,Surface water
+3092,24,2,S,Lancashire,Northwest - Warrington,Lancashire,13/09/2016,Significant,Surface water
+3095,1,2,S,Merseyside,Northwest - Warrington,Merseyside,13/09/2016,Significant,Surface water
+3095,5,2,S,West Yorkshire,Northeast - Leeds,W Yorkshire,13/09/2016,Significant,Surface water
+3095,7,2,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,13/09/2016,Significant,Surface water
+3095,11,2,S,Cheshire,Northwest - Warrington,Cheshire,13/09/2016,Significant,Surface water
+3095,13,2,S,Cumbria,Northwest - Warrington,Cumbria,13/09/2016,Significant,Surface water
+3095,24,2,S,Lancashire,Northwest - Warrington,Lancashire,13/09/2016,Significant,Surface water
+3095,47,2,S,Halton,Northwest - Warrington,Halton,13/09/2016,Significant,Surface water
+3095,48,2,S,Warrington,Northwest - Warrington,Warrington,13/09/2016,Significant,Surface water
+3095,49,2,S,Blackburn with Darwen,Northwest - Warrington,Blackburn with Darwen,13/09/2016,Significant,Surface water
+3095,50,2,S,Blackpool,Northwest - Warrington,Blackpool,13/09/2016,Significant,Surface water
+3085,7,2,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,13/09/2016,Significant,Surface water
+3085,24,2,S,Lancashire,Northwest - Warrington,Lancashire,13/09/2016,Significant,Surface water
+3096,6,3,S,Greater London,Southeast North - Reading,Gtr London,15/09/2016,Minor,Surface water
+3096,79,3,S,Reading,Southeast North - Reading,Reading,15/09/2016,Minor,Surface water
+3096,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,15/09/2016,Minor,Surface water
+3097,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,15/09/2016,Minor,Surface water
+3098,69,3,S,Bournemouth,Southwest - Exeter,Bournemouth,16/09/2016,Minor,Surface water
+3098,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,16/09/2016,Minor,Surface water
+3098,16,3,S,Dorset,Southwest - Exeter,Dorset,16/09/2016,Minor,Surface water
+3098,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,16/09/2016,Minor,Surface water
+3098,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,16/09/2016,Minor,Surface water
+3098,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,16/09/2016,Minor,Surface water
+3098,37,3,S,Surrey,Southeast North - Reading,Surrey,16/09/2016,Minor,Surface water
+3098,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,16/09/2016,Minor,Surface water
+3098,81,3,S,Windsor and Maidenhead,Southeast North - Reading,Windsor and Maidenhead,16/09/2016,Minor,Surface water
+3098,82,3,S,Wokingham,Southeast North - Reading,Wokingham,16/09/2016,Minor,Surface water
+3098,16,2,S,Dorset,Southwest - Exeter,Dorset,16/09/2016,Significant,Surface water
+3098,6,2,S,Greater London,Southeast North - Reading,Gtr London,16/09/2016,Significant,Surface water
+3098,22,2,S,Hertfordshire,Southeast North - Reading,Hertfordshire,16/09/2016,Significant,Surface water
+3098,32,2,S,Oxfordshire,Southeast North - Reading,Oxfordshire,16/09/2016,Significant,Surface water
+3098,78,2,S,West Berkshire,Southeast North - Reading,W Berkshire,16/09/2016,Significant,Surface water
+3098,81,2,S,Windsor and Maidenhead,Southeast North - Reading,Windsor and Maidenhead,16/09/2016,Significant,Surface water
+3099,8,3,S,Bedfordshire,Anglian - Peterborough,Bedfordshire,16/09/2016,Minor,Surface water
+3099,77,3,S,Bracknell Forest,Southeast North - Reading,Bracknell Forest,16/09/2016,Minor,Surface water
+3099,9,3,S,Buckinghamshire,Southeast North - Reading,Buckinghamshire,16/09/2016,Minor,Surface water
+3099,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,16/09/2016,Minor,Surface water
+3099,19,3,S,Essex,Anglian - Peterborough,Essex,16/09/2016,Minor,Surface water
+3099,6,3,S,Greater London,Southeast North - Reading,Gtr London,16/09/2016,Minor,Surface water
+3099,21,3,S,Hampshire,Southeast South - Worthing,Hampshire,16/09/2016,Minor,Surface water
+3099,22,3,S,Hertfordshire,Southeast North - Reading,Hertfordshire,16/09/2016,Minor,Surface water
+3099,23,3,S,Kent,Southeast South - Worthing,Kent,16/09/2016,Minor,Surface water
+3099,73,3,S,Luton,Southeast North - Reading,Luton,16/09/2016,Minor,Surface water
+3099,76,3,S,Medway,Southeast South - Worthing,Medway,16/09/2016,Minor,Surface water
+3099,83,3,S,Milton Keynes,Anglian - Peterborough,Milton Keynes,16/09/2016,Minor,Surface water
+3099,27,3,S,Norfolk,Anglian - Peterborough,Norfolk,16/09/2016,Minor,Surface water
+3099,32,3,S,Oxfordshire,Southeast North - Reading,Oxfordshire,16/09/2016,Minor,Surface water
+3099,79,3,S,Reading,Southeast North - Reading,Reading,16/09/2016,Minor,Surface water
+3099,80,3,S,Slough,Southeast North - Reading,Slough,16/09/2016,Minor,Surface water
+3099,74,3,S,Southend-on-Sea,Anglian - Peterborough,Southend-on-Sea,16/09/2016,Minor,Surface water
+3099,36,3,S,Suffolk,Anglian - Peterborough,Suffolk,16/09/2016,Minor,Surface water
+3099,37,3,S,Surrey,Southeast North - Reading,Surrey,16/09/2016,Minor,Surface water
+3099,75,3,S,Thurrock,Anglian - Peterborough,Thurrock,16/09/2016,Minor,Surface water
+3099,78,3,S,West Berkshire,Southeast North - Reading,W Berkshire,16/09/2016,Minor,Surface water
+3099,81,3,S,Windsor and Maidenhead,Southeast North - Reading,Windsor and Maidenhead,16/09/2016,Minor,Surface water
+3099,82,3,S,Wokingham,Southeast North - Reading,Wokingham,16/09/2016,Minor,Surface water
+3100,15,3,S,Devon,Southwest - Exeter,Devon,24/09/2016,Minor,Surface water
+3100,67,3,S,Plymouth,Southwest - Exeter,Plymouth,24/09/2016,Minor,Surface water
+3100,109,3,S,Cardiff,Wales,Cardiff,24/09/2016,Minor,Surface water
+3101,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,30/09/2016,Minor,Surface water
+3102,10,3,S,Cambridgeshire,Anglian - Peterborough,Cambridgeshire,01/10/2016,Minor,Surface water
+3102,23,3,S,Kent,Southeast South - Worthing,Kent,01/10/2016,Minor,Surface water
+3102,98,3,S,Swansea,Wales,Swansea,01/10/2016,Minor,Surface water
+3104,20,3,C,Gloucestershire,Midlands - Solihull,Gloucestershire,16/10/2016,Minor,Coastal \ tidal
+3104,60,3,C,Herefordshire,Midlands - Solihull,Herefordshire,16/10/2016,Minor,Coastal \ tidal
+3103,16,3,S,Dorset,Southwest - Exeter,Dorset,16/10/2016,Minor,Surface water
+3103,39,3,S,West Sussex,Southeast South - Worthing,W Sussex,16/10/2016,Minor,Surface water
+3106,16,,,Dorset,Southwest - Exeter,Dorset,16/10/2016,,
+3106,40,,,Wiltshire,Southwest - Exeter,Wiltshire,16/10/2016,,
+3107,15,,,Devon,Southwest - Exeter,Devon,17/10/2016,,
+3105,15,3,C,Devon,Southwest - Exeter,Devon,17/10/2016,Minor,Coastal \ tidal
+3110,15,3,R,Devon,Southwest - Exeter,Devon,23/10/2016,Minor,River
+3108,12,3,S,Cornwall and Isles of Scilly,Southwest - Exeter,Cornwall & Isles of Scilly,24/10/2016,Minor,Surface water
+3108,67,3,S,Plymouth,Southwest - Exeter,Plymouth,24/10/2016,Minor,Surface water
+3109,15,2,S,Devon,Southwest - Exeter,Devon,27/10/2016,Significant,Surface water
+3111,18,,,East Sussex,Southeast South - Worthing,E Sussex,04/11/2016,,
+3111,37,,,Surrey,Southeast North - Reading,Surrey,04/11/2016,,
+3112,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,12/11/2016,Minor,Surface water
+3113,35,,,Staffordshire,Midlands - Solihull,Staffordshire,17/11/2016,,
+3114,15,2,R,Devon,Southwest - Exeter,Devon,19/11/2016,Significant,River
+3114,99,3,S,Neath Port Talbot,Wales,Neath Port Talbot,19/11/2016,Minor,Surface water
+3114,15,2,S,Devon,Southwest - Exeter,Devon,19/11/2016,Significant,Surface water
+3114,16,3,C,Dorset,Southwest - Exeter,Dorset,19/11/2016,Minor,Coastal \ tidal
+3114,21,3,C,Hampshire,Southeast South - Worthing,Hampshire,19/11/2016,Minor,Coastal \ tidal
+3116,64,2,S,"Bristol, City of",Southwest - Exeter,Bristol,21/11/2016,Significant,Surface water
+3117,14,3,S,Derbyshire,Midlands - Solihull,Derbyshire,21/11/2016,Minor,Surface water
+3117,14,2,S,Derbyshire,Midlands - Solihull,Derbyshire,21/11/2016,Significant,Surface water
+3125,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,21/11/2016,Minor,River
+3115,30,3,S,North Yorkshire,Northeast - Leeds,N Yorkshire,21/11/2016,Minor,Surface water
+3125,5,3,S,West Yorkshire,Northeast - Leeds,W Yorkshire,21/11/2016,Minor,Surface water
+3126,24,3,S,Lancashire,Northwest - Warrington,Lancashire,21/11/2016,Minor,Surface water
+3122,7,2,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,21/11/2016,Significant,River
+3122,7,2,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,21/11/2016,Significant,Surface water
+3123,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,21/11/2016,Minor,River
+3124,7,3,R,Greater Manchester,Northwest - Warrington,Gtr Manchester,21/11/2016,Minor,River
+3124,7,3,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,21/11/2016,Minor,Surface water
+3124,7,2,S,Greater Manchester,Northwest - Warrington,Gtr Manchester,21/11/2016,Significant,Surface water
+3121,15,3,R,Devon,Southwest - Exeter,Devon,21/11/2016,Minor,River
+3121,15,2,R,Devon,Southwest - Exeter,Devon,21/11/2016,Significant,River
+3121,15,2,S,Devon,Southwest - Exeter,Devon,21/11/2016,Significant,Surface water
+3118,16,3,S,Dorset,Southwest - Exeter,Dorset,21/11/2016,Minor,Surface water
+3118,51,3,S,"Kingston upon Hull, City of",Northeast - Leeds,Kingston upon Hull,21/11/2016,Minor,Surface water
+3118,34,3,S,Somerset,Southwest - Exeter,Somerset,21/11/2016,Minor,Surface water
+3118,65,2,S,North Somerset,Southwest - Exeter,N Somerset,21/11/2016,Significant,Surface water
+3118,30,2,S,North Yorkshire,Northeast - Leeds,N Yorkshire,21/11/2016,Significant,Surface water
+3118,2,2,S,South Yorkshire,Northeast - Leeds,S Yorkshire,21/11/2016,Significant,Surface water
+3118,5,2,S,West Yorkshire,Northeast - Leeds,W Yorkshire,21/11/2016,Significant,Surface water
+3119,100,3,S,Bridgend,Wales,Bridgend,21/11/2016,Minor,Surface water
+3119,109,3,S,Cardiff,Wales,Cardiff,21/11/2016,Minor,Surface water
+3119,97,3,S,Carmarthenshire,Wales,Carmarthenshire,21/11/2016,Minor,Surface water
+3119,89,3,S,Gwynedd,Wales,Gwynedd,21/11/2016,Minor,Surface water
+3119,99,3,S,Neath Port Talbot,Wales,Neath Port Talbot,21/11/2016,Minor,Surface water
+3119,96,3,S,Pembrokeshire,Wales,Pembrokeshire,21/11/2016,Minor,Surface water
+3119,102,3,S,"Rhondda, Cynon, Taff",Wales,Rhondda Cynon Taff,21/11/2016,Minor,Surface water
+3119,98,3,S,Swansea,Wales,Swansea,21/11/2016,Minor,Surface water
+3119,101,3,S,The Vale of Glamorgan,Wales,Vale of Glamorgan,21/11/2016,Minor,Surface water
+3120,34,3,R,Somerset,Southwest - Exeter,Somerset,21/11/2016,Minor,River
+3120,34,2,S,Somerset,Southwest - Exeter,Somerset,21/11/2016,Significant,Surface water
+3127,15,3,R,Devon,Southwest - Exeter,Devon,22/11/2016,Minor,River
+3127,30,3,R,North Yorkshire,Northeast - Leeds,N Yorkshire,22/11/2016,Minor,River
+3127,29,3,R,Northumberland,Northeast - Leeds,Northumberland,22/11/2016,Minor,River
+3127,5,3,R,West Yorkshire,Northeast - Leeds,W Yorkshire,22/11/2016,Minor,River
+3127,55,3,R,York,Northeast - Leeds,York,22/11/2016,Minor,River
+3128,55,3,R,York,Northeast - Leeds,York,23/11/2016,Minor,River
